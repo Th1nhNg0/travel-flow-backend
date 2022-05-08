@@ -6,7 +6,7 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
@@ -53,6 +53,7 @@ model Location {
   id                   Int                    @id @default(autoincrement())
   name                 String
   thumbnail            String
+  capacity             Int                    @default(value: 0)
   address              String
   latitude             Float
   longitude            Float

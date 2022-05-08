@@ -68,7 +68,6 @@ router.get("/", async (req, res) => {
 
 router.get("/:id", async (req, res) => {
   const id = parseInt(req.params.id);
-  getPeopleCount(id);
   const location: any = await prisma.location.findFirst({
     where: {
       id: id,
