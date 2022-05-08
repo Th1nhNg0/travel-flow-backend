@@ -18,7 +18,7 @@ Content-Type: application/json
 ###
 
 GET http://localhost:3003/user/me
-Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwibmFtZSI6IlRo4buLbmgiLCJpYXQiOjE2NTIwMjQwNjgsImV4cCI6MTY1MjYyODg2OH0.MO18rVLyRaLu0-2qNo2QTT3d0TL56_0INtJF3dYyQgY
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwibmFtZSI6bnVsbCwicmVwdXRhdGlvblBvaW50IjowLCJpYXQiOjE2NTIwNDExMzAsImV4cCI6MTY1MjY0NTkzMH0.uF-LPXr1NE9qKLX4lOST5rgQF2nO7yCcY1lYZEK5N-0
 
 
 
@@ -97,4 +97,8 @@ Content-Type: application/json
 
 ###
 GET http://localhost:3003/user/favorite?page=1&limit=10
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+
+###
+GET http://localhost:3003/planlocation?page=1&limit=10
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o

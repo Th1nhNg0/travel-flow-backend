@@ -3,7 +3,313 @@
     "id": "2000038451947",
     "name": "Vé Saigon Waterbus",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000038451947/Saigon%2520Waterbus%2520Tickets-c59ba825-d125-48ef-b397-88a46328ff85.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.35, "count": "62" },
+    "review": {
+      "score": 4.35,
+      "count": "62",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1649810212153",
+          "content": "App tự hủy chuyến và hoàn tiền lâu. ",
+          "rating": 2.5
+        },
+        {
+          "userId": 1,
+          "date": "1649727280547",
+          "content": "Mua vé của travel phải in ra vé mới được đi tàu. ",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1649140132551",
+          "content": "trải nghiệm tốt, nhân viên thân thiện",
+          "rating": 4.5
+        },
+        {
+          "userId": 3,
+          "date": "1649090568546",
+          "content": "View đẹp. Ngồi mát cực đã. ",
+          "rating": 5
+        },
+        {
+          "userId": 4,
+          "date": "1648441160023",
+          "content": "Mọi thứ tạm ổn nhưng không được đi ra trạm nên thấy hơi chán\n",
+          "rating": 3.5
+        },
+        {
+          "userId": 5,
+          "date": "1648318277762",
+          "content": "bị quên đồ trạm cũ nhưng có nhân viên hỗ trợ tìm kiếm mang về giúp",
+          "rating": 5
+        },
+        {
+          "userId": 6,
+          "date": "1647910890880",
+          "content": "Tàu kêu ồn, hơi ngột ngạt, hôi dầu\nTầm nhìn cửa sổ ra hơi thấp\nNhân viên dễ thương",
+          "rating": 4
+        },
+        {
+          "userId": 7,
+          "date": "1647773183743",
+          "content": "Cảnh đẹp, tổ chức hơi lộn xộn, chưa có tiện ích ở bến dừng",
+          "rating": 4.5
+        },
+        {
+          "userId": 8,
+          "date": "1647507295426",
+          "content": "30k được vậy cũng ok mà nên ít khách lại chút để có ghế (thường mọi người đi đôi mà ghế trên tàu là ghế 3 nên một vài đôi phải ngồi trên dưới cứ kì kì) vs không gian chụp ảnh sống ảo",
+          "rating": 4
+        },
+        {
+          "userId": 9,
+          "date": "1647331712568",
+          "content": "Mua vé dễ dàng lưu ý tới trước 30 phút, 8h tàu chạy mình 8h01phút tới bỏ luôn vé vì bảo vệ nói tàu chạy rồi, không được đi chuyến sau, làm phải ra cổng mua thêm vé chuyến sau. ",
+          "rating": 5
+        },
+        {
+          "userId": 10,
+          "date": "1646889075154",
+          "content": "Trải nghiệm thú vị trên chuyến tàu tham quan trên sông Sài Gòn. Mình đi chuyến buổi chiều 17h30 có thể chụp hình ánh sáng ngày quang cảnh đẹp và chuyến về là 18h quay về lại bến Bạch Đằng trong bầu trời vừa sụp tối, và sau khi các toà nhà Landmark lên đèn trong rất tuyệt. \n",
+          "rating": 5
+        },
+        {
+          "userId": 11,
+          "date": "1646625304083",
+          "content": "Tuyệt vời quá đi tôi sẽ quay lại",
+          "rating": 5
+        },
+        {
+          "userId": 12,
+          "date": "1646536021459",
+          "content": "Hơi ồn, hơi nóng do không gió không máy lạnh và trời âm u, không là quá tuyệt vời rồi. ",
+          "rating": 4.5
+        },
+        {
+          "userId": 13,
+          "date": "1646107661732",
+          "content": "Đã lắm luôn á mọi người ơi. ",
+          "rating": 5
+        },
+        {
+          "userId": 14,
+          "date": "1645752855930",
+          "content": "Phong cảnh đẹp, nhân viên dễ thương và nhiệt tình",
+          "rating": 5
+        },
+        {
+          "userId": 15,
+          "date": "1645679571676",
+          "content": "Chuyến đúng giờ, sạch sẽ, xứng đáng với giá tiền",
+          "rating": 4.5
+        },
+        {
+          "userId": 16,
+          "date": "1645657678122",
+          "content": "mọi thứ đều rất tuyệt, nên trải nghiệm",
+          "rating": 5
+        },
+        {
+          "userId": 17,
+          "date": "1645486842549",
+          "content": "Trải nghiệm waterbus thật sự tuyệt, ngắm SG trên sông, giá vé vô cùng hợp lý. Được cái thời tiết bữa sáng hôm đó mát mẻ, ít nắng nên thoải mái. ",
+          "rating": 5
+        },
+        {
+          "userId": 18,
+          "date": "1645239771090",
+          "content": "tàu đi êm, sạch sẽ, bến tàu đẹp thoáng đãng",
+          "rating": 5
+        },
+        {
+          "userId": 19,
+          "date": "1644940298603",
+          "content": "Rất đúng giờ, đi đêm sẽ đẹp và mát hơn",
+          "rating": 5
+        },
+        {
+          "userId": 20,
+          "date": "1644195708856",
+          "content": "Mình book vé bên Traveloka đã chuyển tiền và có mã đổi vé nhưng bên saigonbus gọi điện báo đã hết vé và kêu mình liên hệ Traveloka để giải quyết vì đã phản hồi tình trạng hết vé cho bên đại lý từ ngày hôm trước. Mình có liên hệ lại Traveloka nhưng không nhận được phản hồi.",
+          "rating": 2
+        },
+        {
+          "userId": 21,
+          "date": "1643906425684",
+          "content": "Traveloka không cập nhập tình trạng vé, vé đã hết nhưng vẫn mở bán. Rất may các bạn nhân viên đã nhiệt tình hỗ trợ mình. Dịch vụ và nhân viên của waterbus rất tốt, giá quá rẻ cho một chuyến đi",
+          "rating": 3
+        },
+        {
+          "userId": 22,
+          "date": "1642063048786",
+          "content": "Nên trải nghiệm thử. ",
+          "rating": 5
+        },
+        {
+          "userId": 23,
+          "date": "1641630788337",
+          "content": "Traveloka gửi vé điện tử có xác nhận không cần in vé nhưng sau khi mình xếp hàng chờ thì phải quay ngược vào quầy vé để xuất vé thường",
+          "rating": 4
+        },
+        {
+          "userId": 24,
+          "date": "1641538577985",
+          "content": "Trời mua tầm tả nên không đi tham quan trên sông được mà tiền lại bị thu trước ko hoàn đổi được nên rất buồn. ",
+          "rating": 2
+        },
+        {
+          "userId": 25,
+          "date": "1640797575443",
+          "content": "Trải nghiệm hôm nay hơi tệ :( ",
+          "rating": 4
+        },
+        {
+          "userId": 26,
+          "date": "1640484548070",
+          "content": "Mọi thứ khá ổn từ chất lượng và dịch vụ.",
+          "rating": 5
+        },
+        {
+          "userId": 27,
+          "date": "1636944582233",
+          "content": "Ok ",
+          "rating": 5
+        },
+        {
+          "userId": 28,
+          "date": "1636944516649",
+          "content": "Dùng mã qr gửi về mail nhân viên soát vé không quét được, phải đi đổi vé giấy",
+          "rating": 4
+        },
+        {
+          "userId": 29,
+          "date": "1607335493750",
+          "content": "Mọi thứ đều ổn, 1 điểm trừ là trong khoang rất nóng & ngộp vì không được bật quạt hay điều hoà đã có sẵn. \n",
+          "rating": 4
+        },
+        {
+          "userId": 30,
+          "date": "1607325436562",
+          "content": "Mọi thứ đều ổn từ lúc đổi vé cho đến khi di chuyển. Chỉ 1 điều trong khoang ngồi khá nóng vì quạt & điều hòa không được bật, rất ngộp. Thỉng thoảng phải di chuyển ra sau bus cho thoáng. ",
+          "rating": 4
+        },
+        {
+          "userId": 31,
+          "date": "1607053042582",
+          "content": "một chuyến đi rất đáng để trải nghiệm",
+          "rating": 4
+        },
+        {
+          "userId": 32,
+          "date": "1606712615937",
+          "content": "rất đáng để trải nghiệm một lần",
+          "rating": 5
+        },
+        {
+          "userId": 33,
+          "date": "1606712035436",
+          "content": "Nhân viên phục vụ tại Bến Bạch Đằng cần: Vui vẻ, năng động, lịch thiệp; Nhà vệ sinh cần phải lịch sự, thơm tho. Nhà vệ sinh ở Bến Linh Đông quá sơ sài.\n",
+          "rating": 3
+        },
+        {
+          "userId": 34,
+          "date": "1606014999308",
+          "content": "Khuyến khích mọi người sử dụng dịch vụ nha.",
+          "rating": 5
+        },
+        {
+          "userId": 35,
+          "date": "1604276138628",
+          "content": "Hài lòng, chủ động thời gian! Đổi vé nhanh!",
+          "rating": 5
+        },
+        {
+          "userId": 36,
+          "date": "1603679276598",
+          "content": "Ngon bổ rẻ mát, đáng trải nghiệm. ",
+          "rating": 5
+        },
+        {
+          "userId": 37,
+          "date": "1602470077619",
+          "content": "Ngon bổ rẻ, very good, đáng trải nghiệm. ",
+          "rating": 5
+        },
+        {
+          "userId": 38,
+          "date": "1601231738124",
+          "content": "Trải nghiệm ban đầu tệ khi mang phiếu mua đổi vé thì bị báo hết giờ, phải đổi lịch. 1 vé 15k thì đây là trải nghiệm giá rẻ, nhưng cũng rất vui. Có điều nâng cấp lên, ví dụ thêm ghế bên ngoài, mở quầy bán, nâng cấp ghế ngồi, vé đắt hơn thì tốt. ",
+          "rating": 3.5
+        },
+        {
+          "userId": 39,
+          "date": "1599584348556",
+          "content": "Rất đáng để trải nghiệm, nên đi chuyến Bạch Đằng - Thanh Đa nếu không muốn đi khứ hồi (20phút). ",
+          "rating": 5
+        },
+        {
+          "userId": 40,
+          "date": "1599204369454",
+          "content": "Nên trải nghiệm. Một góc nhìn khác về Sài Gòn. Rẻ. ",
+          "rating": 4
+        },
+        {
+          "userId": 41,
+          "date": "1598808815196",
+          "content": "Sảng khoái. ",
+          "rating": 5
+        },
+        {
+          "userId": 42,
+          "date": "1598801461889",
+          "content": "Mỗi hàng ghế có 3 ghế ngồi mà chỉ có 2 áo phao. ",
+          "rating": 2.5
+        },
+        {
+          "userId": 43,
+          "date": "1595168597140",
+          "content": "Trải nghiệm thú vị. Trên tàu cũng khá sạch sẽ. Nhân viên thân thiện. Rất hài lòng!",
+          "rating": 5
+        },
+        {
+          "userId": 44,
+          "date": "1595160224557",
+          "content": "Nhìn ngắm Sài Gòn trên sông mang lại trải nghiệm hoàn toàn mới lạ về Sài Gòn. ",
+          "rating": 4.5
+        },
+        { "userId": 45, "date": "1600048134764", "content": "", "rating": 4.5 },
+        {
+          "userId": 46,
+          "date": "1595154952354",
+          "content": "Tàu sạch sẽ chạy đúng giờ, lên xuống có người hướng dẫn. Tàu chạy gần 1 giờ đi qua các trạm nhưng không có  một lời giới thiệu, khách chả biết tàu đang ở đâu.  ",
+          "rating": 4
+        },
+        {
+          "userId": 47,
+          "date": "1594821559092",
+          "content": "Saigon Waterbus thực sự là Saigon River Tour với giá vé rất rẻ (chưa tới 1 USD), chất lượng phục vụ rất tốt; hiệu quả chuyến đi tuyệt vời trên cả mong đợi.",
+          "rating": 5
+        },
+        {
+          "userId": 48,
+          "date": "1592896075155",
+          "content": "Thư giãn trên sông và ngắm cảnh thành phố từ đường sông Sài Gòn  trên buýt đường sông.",
+          "rating": 4
+        },
+        {
+          "userId": 49,
+          "date": "1591630199035",
+          "content": "Rất đáng trải nghiệm. Đi xế chiều sẽ mát và đẹp hơn. ",
+          "rating": 4.5
+        },
+        {
+          "userId": 50,
+          "date": "1583114340436",
+          "content": "Ngồi trên buýt sông ngắm cảnh Sài Gòn rất đẹp. Xe sạch sẽ, lịch sự.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "Bến Nghé, District 1, Ho Chi Minh City, Vietnam",
       "location": {
@@ -33,7 +339,18 @@
     "id": "2001798092415",
     "name": "Ăn tối trên sông Sài Gòn - Tour đêm",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001798092415/Dinner%2520Cruise%2520on%2520Saigon%2520River%2520-%2520Night%2520Tour-ad5cca44-3a2a-4363-b621-56ca61485204.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.3, "count": "33" },
+    "review": {
+      "score": 4.3,
+      "count": "33",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1564383145841",
+          "content": "Được ngắm sông Sài Gòn cảm giác rất vui, thời tiết rất mát mẻ, phục vụ nhiệt tình.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "29A Đồng Khởi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -57,7 +374,126 @@
     "id": "2000639648830",
     "name": "Vé đài quan sát SkyView tại Vincom Center Landmark 81",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000639648830/Vincom%2520Center%2520Landmark%252081%2520SkyView%2520Observation%2520Deck%2520Tickets-84983c70-f34e-4fca-b923-d6a118dc05a7.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.2, "count": "39" },
+    "review": {
+      "score": 4.2,
+      "count": "39",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1641274605581",
+          "content": "Khi đặt vé trong Chi tiết có ghi rõ Combo kèm 1 photo. Nhưng khi gửi mail xác nhận thì lại không khi rõ là Combo có hình hay không. Nhân viên của Landmark chỉ căn cứ theo mail và mình phải bỏ tiền ra để mua hình.",
+          "rating": 4
+        },
+        {
+          "userId": 1,
+          "date": "1610246057838",
+          "content": "Khá ổn để tham quan một lần với giá vé sale. Không có gì quá đặc sắc lắm, cảnh từ trên cao đẹp. ",
+          "rating": 3.5
+        },
+        {
+          "userId": 2,
+          "date": "1610211417819",
+          "content": "Tôi đã có trải nghiệm tuyệt vời . ",
+          "rating": 4.5
+        },
+        {
+          "userId": 3,
+          "date": "1610162833078",
+          "content": "Hài lòng với dịch vụ. \n\n",
+          "rating": 4.5
+        },
+        {
+          "userId": 4,
+          "date": "1609636830906",
+          "content": "giá tại chỗ là 500k. giá vé của Traveloka rất ok nhé",
+          "rating": 5
+        },
+        {
+          "userId": 5,
+          "date": "1596978981569",
+          "content": "Quá đẹp và ấn tượng về Sài Gòn của mình. ",
+          "rating": 5
+        },
+        {
+          "userId": 6,
+          "date": "1594307680869",
+          "content": "I had a great experience at Landmark 81!",
+          "rating": 5
+        },
+        {
+          "userId": 7,
+          "date": "1592824924693",
+          "content": "Trải nghiệm tuyệt vời ở lầu 80 và 81!",
+          "rating": 4
+        },
+        {
+          "userId": 8,
+          "date": "1584403394566",
+          "content": "Ngắm thành phố từ trên cao là một kỉ niệm không bao giờ quên. ",
+          "rating": 4.5
+        },
+        {
+          "userId": 9,
+          "date": "1582356659871",
+          "content": "Tuyệt vời, tôi đã có trải nghiệm hoàn toàn hợp lý.",
+          "rating": 4
+        },
+        {
+          "userId": 10,
+          "date": "1582023523471",
+          "content": "Bình thường. Nói chung là tôi thấy không ấn tượng lắm. ",
+          "rating": 2.5
+        },
+        {
+          "userId": 11,
+          "date": "1581581884593",
+          "content": "Nhờ Traveloka mà mua được giá rẻ 50% so với mua tại quầy, không phải xếp hàng mua vé. Quá tuyệt vời.",
+          "rating": 4
+        },
+        {
+          "userId": 12,
+          "date": "1577958322973",
+          "content": "Trải nghiệm ban đêm khá OK, đi cùng gấu là tuyệt.",
+          "rating": 4
+        },
+        {
+          "userId": 13,
+          "date": "1576940330969",
+          "content": "Thấy cũng bình thường. Bên Traveloka hỗ trợ rất nhiệt tình, đánh giá cao.",
+          "rating": 2.5
+        },
+        {
+          "userId": 14,
+          "date": "1576756514515",
+          "content": "Lên rồi! Rất OK. Cảnh đẹp.",
+          "rating": 5
+        },
+        {
+          "userId": 15,
+          "date": "1576204789018",
+          "content": "Cao, yên tĩnh, nhiệt tình, lịch sự. Chẳng có gì để phàn nàn ngoài việc làm thủ tục vào thang máy.",
+          "rating": 4
+        },
+        {
+          "userId": 16,
+          "date": "1575550814567",
+          "content": "Nếu đi ban ngày nên chọn ngày không có sương mù để ngắm được view tốt nhất.",
+          "rating": 4
+        },
+        {
+          "userId": 17,
+          "date": "1574649799665",
+          "content": "Cũng bình thường, không đặc sắc, vé mắc.",
+          "rating": 3
+        },
+        {
+          "userId": 18,
+          "date": "1567444347979",
+          "content": "Rất tuyệt vời. Ngày lễ nhưng giá vẫn rẻ, không bị tăng giá khi mua online trước như thế này.",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Tầng B1, Vincom Center Landmark 81, 720A Nguyễn Hữu Cảnh, P.22, Q. Bình Thạnh",
       "location": { "lon": "106.7213966", "lat": "10.7949466", "valid": true }
@@ -79,7 +515,48 @@
     "id": "2001591261755",
     "name": "Vé tàu cao tốc GreenlinesDP đi Vũng Tàu từ Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001591261755/Ho%2520Chi%2520Minh%2520City%2520Speedboat%2520Transfer%2520to%2520Vung%2520Tau%2520City-205aee61-dc3f-4c1f-9f2d-3dce9f6872d9.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.4, "count": "8" },
+    "review": {
+      "score": 4.4,
+      "count": "8",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1610061099224",
+          "content": "Tàu đi êm, không làm hành khách có cảm giác say. Nhân viên hướng dẫn nhiệt tình, có phục vụ bánh nước.",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1594015913627",
+          "content": "Nhìn chung trải nghiệm đi bằng tàu cao tốc tới Vũng Tàu cũng khá thú vị so với đi xe máy hoặc xe khách bình thường. Nhìn chung khá thú vị và đáng để trải nghiệm thử. \n",
+          "rating": 4
+        },
+        {
+          "userId": 2,
+          "date": "1580984891227",
+          "content": "Tuyệt vời, tàu chạy êm, phục vụ bánh và nước ngọt miễn phí trên tàu.",
+          "rating": 5
+        },
+        {
+          "userId": 3,
+          "date": "1577704139452",
+          "content": "Tàu chạy rất êm và đúng giờ, phục vụ rất nhiệt tình.",
+          "rating": 4
+        },
+        {
+          "userId": 4,
+          "date": "1575289275046",
+          "content": "Mình thấy đi tàu nhanh, không bị say tàu. Các bạn nhân viên tận tình dễ thương. Tuy nhiên ở ga Vũng Tàu chỗ chờ tàu khá nắng, ít mái che làm trải nghiệm bị kém đi một chút. Mong chú ý thêm về ga tàu. ",
+          "rating": 4
+        },
+        {
+          "userId": 5,
+          "date": "1572333992106",
+          "content": "Sợ nắng, làm biếng lái xe máy tốt nhất nên đi tàu cao tốc cho nhanh. Êm, thoải mái, rộng rãi, chạy rất nhanh.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "10 Đường Tôn Đức Thắng, Phường Nguyễn Thái Bìn, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -106,7 +583,36 @@
     "id": "2001438308062",
     "name": "Vé xe buýt hop-on hop-off Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001438308062/Saigon%2520Hop-on%2520Hop-off%2520Bus%2520Pass-73a2b3c1-4932-45f7-a57b-d5a872618a78.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 3.45, "count": "7" },
+    "review": {
+      "score": 3.45,
+      "count": "7",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1641275366653",
+          "content": "1 dịch vụ chán chưa từng có,lên ngồi đi 1 vòng Saigon vậy thôi",
+          "rating": 2
+        },
+        {
+          "userId": 1,
+          "date": "1616647102111",
+          "content": "Tickets were confusing us, but the customer service is excellent. We enjoyed our rides with them. Nice view and cool air at night. Would recommend.",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1616636032083",
+          "content": "Xe đến muộn 15 phút, chạy rất nhanh nên khó tham quan và chụp ảnh. ",
+          "rating": 3.5
+        },
+        {
+          "userId": 3,
+          "date": "1614672643246",
+          "content": "Chỉ đơn thuần là lên cái xe bus mui trần ngồi, chạy 1 vòng 45 phút, không có người dẫn chương trình, giới thiệu các điểm đi qua gì cả, dịch vụ như vậy mà 150k là chưa đáng.\n",
+          "rating": 3.5
+        }
+      ]
+    },
     "location": {
       "summary": "210 Dien Bien Phu,7 Ward, 3 District, Ho Chi Minh, Vietnam",
       "location": {
@@ -131,7 +637,36 @@
     "id": "5552324518261",
     "name": "Khóa học chèo SUP và Các hoạt động chèo SUP tại Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5552324518261/SUP%2520Training%2520Course%2520and%2520SUP%2520Activities%2520in%2520Saigon%2520-796774f4-09ff-4212-8f0d-561ba4a74d99.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "6" },
+    "review": {
+      "score": 5,
+      "count": "6",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1646626022527",
+          "content": "Một chuyến đi chơi ngắn ngày rất thoả mãn, ngoài ra còn học thêm kỹ năng mới, gặp thêm bạn hướng dẫn siêu nhiệt tình và dễ thương. Một trải nghiệm rất đáng đồng tiền bát gạo. ",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1640250659293",
+          "content": "Chèo sup quá vui và ngắm được hoàng hôn rất thích. chỗ villa sông q2 sạch và rất sang, mình được training ngay hồ bơi luôn nên thấy sạch và yên tâm hơn trước khi xuống nước. Nên thử cho biết nhaaa",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1639500407349",
+          "content": "Cái cảm giác chill sông là... khi gió thổi thoáng qua mỗi khi đưa mái chèo, thả mình trên những con sóng uốn lượn.",
+          "rating": 5
+        },
+        {
+          "userId": 3,
+          "date": "1639155517078",
+          "content": "chill lắm, ai cũng nên thử 1 lần để rồi nghiện cái hoàng hôn siêu đắt giá này nhé. Dịch vụ ổn, các bạn rất support. ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "197 Nguyễn Văn Hưởng, Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7335921", "lat": "10.8159246", "valid": true }
@@ -168,7 +703,7 @@
     "id": "5769617169457",
     "name": "Vé chơi bắn súng tại Saigon Sniper ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5769617169457/Saigon%2520Sniper%2520Shooting%2520Range%2520Tickets-3d06b921-7b60-47dc-ac1e-6547e55dc512.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Nguyễn Bỉnh Khiêm, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7028718", "lat": "10.7892379", "valid": true }
@@ -185,7 +720,108 @@
     "id": "2001465639912",
     "name": "Vé Saigon Skydeck tại Bitexco Financial Tower",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001465639912/Saigon%2520Skydeck%2520at%2520Bitexco%2520Financial%2520Tower%2520Tickets%2520-dba819c5-f67b-4237-9f46-be83a54d909e.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.45, "count": "42" },
+    "review": {
+      "score": 4.45,
+      "count": "42",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1650159642537",
+          "content": "Cảm giác thấy thành phố trên cao về đêm thật đẹp. Tuy nhiên cũng không mang lại cảm giác gì đặc biệt",
+          "rating": 3.5
+        },
+        {
+          "userId": 1,
+          "date": "1640789645590",
+          "content": "Rất đáng để trải nghiệm, nên đi lúc chiều để ngắm hoàng hôn. \n",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1609559531131",
+          "content": "thủ tục nhanh chóng, ngắm Sài Gòn về đêm rất đẹp!",
+          "rating": 5
+        },
+        {
+          "userId": 3,
+          "date": "1607441001530",
+          "content": "Rất tuyệt vời, trải nghiệm thú vị!",
+          "rating": 5
+        },
+        {
+          "userId": 4,
+          "date": "1603169864887",
+          "content": "ngắm cảnh thì ok, còn thiếu dịch vụ tiện ích",
+          "rating": 3.5
+        },
+        {
+          "userId": 5,
+          "date": "1597593814254",
+          "content": "Mọi người nên đi từ chiều muộn để nhìn rõ thành phố, rồi đến tối ngắm thành phố về đêm. ",
+          "rating": 5
+        },
+        {
+          "userId": 6,
+          "date": "1595224936519",
+          "content": "Lịch sự, đổi vé nhanh, sẽ mua dịch vụ tiếp nếu giá hợp lý. \n\n",
+          "rating": 5
+        },
+        {
+          "userId": 7,
+          "date": "1595167954269",
+          "content": "Tôi rất thích địa điểm này. Các bạn nhân viên rất thân thiện. ",
+          "rating": 5
+        },
+        {
+          "userId": 8,
+          "date": "1594878020206",
+          "content": "Lúc mua vé thì sẽ được tặng nước suối nhưng khi đến nơi thì không có chai nước suối nào.",
+          "rating": 5
+        },
+        {
+          "userId": 9,
+          "date": "1592831655783",
+          "content": "Nhân viên hỗ trợ nhiệt tình, nếu có thêm nhiều tiểu cảnh để chụp hình sẽ ok hơn.",
+          "rating": 5
+        },
+        {
+          "userId": 10,
+          "date": "1592145258904",
+          "content": "Không có gì quá đặc biệt. Thành phố từ tầng 49 cũng không khác mấy với từ tầng 20 nếu bạn từng cafe trên cao ở nơi khác. Nhưng sảnh là 1 vòng nên nhìn được thành phố nhiều góc hơn. Khá sạch sẽ, nhân viên thân thiện, được chụp hình miễn phí nhưng giá in ảnh thì khá cao nếu muốn in. Nói chung mua với giá sau giảm còn 100k có thể chấp nhận được. ",
+          "rating": 3.5
+        },
+        {
+          "userId": 11,
+          "date": "1591006909753",
+          "content": "Đổi vé nhanh chóng mỗi tội một điểm bảo có chai nước suối không thấy đâu. Lỗi này chắc do bên bitexco thôi. Còn lại rất tốt.",
+          "rating": 5
+        },
+        {
+          "userId": 12,
+          "date": "1590033829776",
+          "content": "Vé mua qua Traveloka quy đổi rất dễ, không phải chờ lâu. Xem Sài Gòn 360 độ từ cao rất thích, xem được hầu hết các điểm hot nhất của thành phố: đường đi bộ, Landmark, quận 2, chợ bến thành,...",
+          "rating": 5
+        },
+        {
+          "userId": 13,
+          "date": "1583084281884",
+          "content": "Trải nghiệm vào buổi chiều hoàng hôn thực sự rất đáng giá!",
+          "rating": 4
+        },
+        {
+          "userId": 14,
+          "date": "1576028720773",
+          "content": "Trải nghiệm một lần với gia đình thôi. Cũng rất thú vị.",
+          "rating": 4
+        },
+        {
+          "userId": 15,
+          "date": "1568560514750",
+          "content": "Đi ngay dịp Trung Thu nên được tặng lồng đèn cho các bé.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "36 Hồ Tùng Mậu, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -207,7 +843,30 @@
     "id": "4884642402026",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Manwah ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4884642402026/Manwah%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-a66422fa-72df-4d16-bbd0-1c89a643cc1f.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "5" },
+    "review": {
+      "score": 5,
+      "count": "5",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1648423428834",
+          "content": "Nhân viên nhiệt tình dù khách đông, hỗ trợ app nhiệt tình",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1643471855709",
+          "content": "tiết kiệm đc quá trời nhờ xài voucher. nên mua nha mọi người ơiiii",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1642394748321",
+          "content": "đi ăn manwah đc giảm hơi bị nhiều luôn. mong tvlk có thêm voucher ăn uống giá tốt như thế này. ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -231,7 +890,7 @@
     "id": "6478482260514",
     "name": "Vé sử dụng gym và hồ bơi tại Lotus Central Hotel Quận 1",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6478482260514/Lotus%2520Central%25204-Star%2520Boutique%2520Hotel%2520Gym%2520%2526%2520Pool%2520Pass-4700acf5-2826-444f-86a3-3ab700d25cc4.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 2, "count": "1" },
+    "review": { "score": 2, "count": "1", "reviews": [] },
     "location": {
       "summary": "Lê Thị Hồng Gấm, Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6975936", "lat": "10.7689001", "valid": true }
@@ -249,7 +908,18 @@
     "id": "2001941422356",
     "name": "B Relax Therapy Spa Sài Gòn - Dịch vụ mát-xa",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001941422356/B%2520Relax%2520Therapy%2520Spa%2520Saigon%2520Massage%2520Treatments-de258ec6-b73d-4bd0-92b1-d47dbf863865.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.75, "count": "4" },
+    "review": {
+      "score": 4.75,
+      "count": "4",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1577334331436",
+          "content": "Nhân viên rất nhiệt tình và thân thiện. Mát-xa rất tuyệt và sạch sẽ.",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "13 Nguyễn Thiệp, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -273,7 +943,36 @@
     "id": "9525151941972",
     "name": "Vé Fanpekka Aeon Mall Tân Phú ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9525151941972/Fanpekka%2520Aeon%2520Mall%2520Tan%2520Phu%2520Tickets%2520-e17ed738-3aa4-45a6-9c07-8bf841264849.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.75, "count": "4" },
+    "review": {
+      "score": 4.75,
+      "count": "4",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1650373847021",
+          "content": "Nơi vui chơi phù hợp cho trẻ 3-11 tuổi.",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1649848782887",
+          "content": "Giá tốt so với mua trực tiếp, quy đổi nhanh chóng. ",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1649677665190",
+          "content": "thú vị cho trẻ nhỏ và gia đình.",
+          "rating": 4
+        },
+        {
+          "userId": 3,
+          "date": "1648101142057",
+          "content": "khu chơi rộng rãi. thiết bị hiện đại. bé nhà mình rất thích. chơi mê quên giờ về luôn",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "30 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6175257", "lat": "10.8016988", "valid": true }
@@ -302,7 +1001,7 @@
     "id": "6851153307094",
     "name": "Game đánh bóng chày tại Baseball Cage Quận 7 TPHCM ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6851153307094/Baseball%2520Batting%2520Game%2520at%2520Baseball%2520Cage%2520District%25207%2520HCMC%2520-cc47ea66-93bf-4ea2-a1be-a59a495e7d4c.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "479 Lê Văn Lương, Tân Hưng, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.703037", "lat": "10.7363639", "valid": true }
@@ -326,7 +1025,342 @@
     "id": "9161756789531",
     "name": "Xét nghiệm COVID-19 tại Diag Center - Tất cả chi nhánh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9161756789531/COVID-19%2520Test%2520at%2520Diag%2520Center%2520-%2520All%2520Branches%2520-9096f69e-599d-44ba-a682-a7e88949e786.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4, "count": "67" },
+    "review": {
+      "score": 4,
+      "count": "67",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1649632968076",
+          "content": "Mọi thứ đều ok. Nhân viên nhiệt tình , quy trình làm việc rất chuyên nghiệp , nhanh lẹ. ",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1648783676293",
+          "content": "Nhân viên nhiệt tình , làm việc hiệu quả nhanh chóng. ",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1648346985126",
+          "content": "Trải nghiệm của tôi tại Diag Nguyễn Du cực kì tệ. Vì hết mẫu test ở CN ĐInh Tiên Hoàng nên tôi phải di chuyển sang CN ND.\nBàn ghi thông tin để ngay hướng nắng trực tiếp mà không hề có hỗ trợ KH như ô, hay rèm cho khu vực chờ phía sau. Khu vực khách ngồi đợi cực kì nóng. Chỉ có 1 nhân viên y tá trực bàn hỗ trợ 1 lúc gần 20 người khách, cực kì lâu và mất thời gian của khách hàng.",
+          "rating": 3
+        },
+        {
+          "userId": 3,
+          "date": "1644103138265",
+          "content": "Rất tốt, tuy nhiên không có chỗ đậu xe. ",
+          "rating": 4
+        },
+        {
+          "userId": 4,
+          "date": "1643865536343",
+          "content": "Tới gần ngày đi thì không cần xét nghiệm taj HCM nên mình muốn đổi sang ngày khác/ lùi lại tuy nhiên phiếu này có hạn nên coi như bỏ",
+          "rating": 3
+        },
+        {
+          "userId": 5,
+          "date": "1643712496488",
+          "content": "thời gian mở cửa quá hạn chế, đăng ký mà không test được vì phải ra sân bay không chờ được giờ mở cửa và đợi test của trung tâm",
+          "rating": 2
+        },
+        {
+          "userId": 6,
+          "date": "1643641751130",
+          "content": "Sạch sẽ, vắng, nhân viên lịch sự. Khâu điền thông tin nếu là người trung niên, không lanh lẹ thì khá mệt vì không biết đièn sao cho đúng. ",
+          "rating": 5
+        },
+        {
+          "userId": 7,
+          "date": "1643558037940",
+          "content": "mọi thứ tuyệt vời. ",
+          "rating": 5
+        },
+        {
+          "userId": 8,
+          "date": "1643440572105",
+          "content": "Xét nghiệm thứ 2 bay. Chủ Nhật đi test thì báo chỉ làm sáng chủ Nhật. Trong khi trên hệ thống ghi lịch chủ Nhật từ 13h tới 17h là sao ",
+          "rating": 2
+        },
+        {
+          "userId": 9,
+          "date": "1643254352259",
+          "content": "Nhân viên rất nhiệt tình, hướng dẫn làm thủ tục đổi phiếu nhanh. Xét nghiệm và có kết quả nhanh. Tuyệt vời",
+          "rating": 5
+        },
+        {
+          "userId": 10,
+          "date": "1643210863377",
+          "content": "Khônh được cập nhật tình hình. Lỡ mua cho chuyến bay trong Tết, nhưng hiện tại thủ tục sân bay không cần xét nghiệm và cả lịch làm việc của trung tâm cũng không cập nhật. \n\nTừ đó không áp dụng sách huỷ, hoàn hay dời sang dịp khác. Khách mất tiền, quan trọng hơn là sự tin cậy vào các dịch vụ tiện ích đi kèm như vậy. ",
+          "rating": 2
+        },
+        {
+          "userId": 11,
+          "date": "1643115912533",
+          "content": "Nhân viên tư vấn nhiệt tình, dịch vụ tốt. Hài lòng. \n",
+          "rating": 5
+        },
+        {
+          "userId": 12,
+          "date": "1643100245796",
+          "content": "Mình có thanh toán cho dịch vụ test covid. Xong đến ngày mình đi test bên mình không hề gửi cho mình mã QR của evoucher. Gọi tổng đài nghìn cuộc không nghe máy. phản hồi không được xử lý. Dịch vụ quá tệ. Tốt nhất đừng nên có dịch vụ này để khách không khó chịu. ",
+          "rating": 2
+        },
+        {
+          "userId": 13,
+          "date": "1643099954512",
+          "content": "Mọi thứ đều tuyệt vời. nhân viên nhiệt tình hỗ trợ. ",
+          "rating": 5
+        },
+        {
+          "userId": 14,
+          "date": "1642946875024",
+          "content": "Dịch vụ tốt, kết quả nhanh, chính xác, nhân viên nhiệt tình.",
+          "rating": 5
+        },
+        {
+          "userId": 15,
+          "date": "1642943405626",
+          "content": "Test nhanh, nhẹ nhàng không đau nhưng bộ phận hỗ trợ làm hồ sơ khách hàng quá lâu. Vô bảo vệ hỗ trợ điền thông tin ok, vô ngồi chờ đọc tên lúc đó có khoảng 3-4 người cùng 1 nhà đến test trước. Họ về hết rồi vẫn chưa đọc đến tên mình, chờ mãi gọi tên vô thì chị nhân viên bảo \"không kiếm thấy mã của em, chờ chút nhé\" mà chờ mãi chờ mãi ko thấy ý kiến gì. Cũng ko nói khách hàng chờ do lỗi hệ thông hay gì cả, nói chuyện cứng nhắc ko thân thiện, sau gia đình mình cũng có mấy bạn đến test gặp trường hợp như vậy. Hỏi bạn làm hồ sơ thì bị la kêu \"chờ đi\"\nVô từ 3h mà 4h hơn mới được xong. Nói chung tệ, rút kinh nghiệm nếu test test phòng khám cho lẹ, đắt hơn có mấy chục nghìn mà dịch vụ tốt hơn rất nhiều",
+          "rating": 3
+        },
+        {
+          "userId": 16,
+          "date": "1642887907390",
+          "content": "Cơ sở vật chất tốt, nhân viên thân thiện, kết quả nhanh, làm việc chuyên nghiệp.",
+          "rating": 5
+        },
+        {
+          "userId": 17,
+          "date": "1642867588833",
+          "content": "Nhân viên ngồi bàn tư vấn chưa ổn lắm nhưng chị còn lại nhiệt tình nhân viên trong lab cũng dễ thương nhiệt tình và chuyên nghiệp.\n",
+          "rating": 5
+        },
+        {
+          "userId": 18,
+          "date": "1642830423879",
+          "content": "Tiện lợi. Tuy nhiên UX chưa tốt lắm. Sau khi mở xem barcode/mã để cho nhân viên xem thì không mở lại được.",
+          "rating": 5
+        },
+        {
+          "userId": 19,
+          "date": "1642778333633",
+          "content": "dịch vụ tốt, nhanh, tận tình hướng dẫn",
+          "rating": 5
+        },
+        {
+          "userId": 20,
+          "date": "1642684142192",
+          "content": "Kết quả cập nhật lên pc-covid khá chậm\n",
+          "rating": 3
+        },
+        {
+          "userId": 21,
+          "date": "1642643453845",
+          "content": "Nhân viên thân thiện, nhiệt tình",
+          "rating": 5
+        },
+        {
+          "userId": 22,
+          "date": "1642416859421",
+          "content": "Test nhanh mà kết quả quá chậm. Mình đợi 30p vẫn chưa có kết quả. Hỏi nhân viên thì nhân viên tỏ vẻ khó chịu. Nói chung là bực bội.",
+          "rating": 3
+        },
+        {
+          "userId": 23,
+          "date": "1642377969693",
+          "content": "nhanh, nhiều chi nhánh gần nhà",
+          "rating": 5
+        },
+        {
+          "userId": 24,
+          "date": "1642218651141",
+          "content": "Chị nhân viên cực kì nhiệt tình và dễ thương, chỗ test sạch sẽ, test nhanh không phải đợi lâu. ",
+          "rating": 5
+        },
+        {
+          "userId": 25,
+          "date": "1642168869693",
+          "content": "cảm ơn vì dịch vụ tốt, an toàn, nhanh chóng ",
+          "rating": 5
+        },
+        {
+          "userId": 26,
+          "date": "1642152504267",
+          "content": "nhanh chóng, nhân viên nhiệt tình",
+          "rating": 5
+        },
+        {
+          "userId": 27,
+          "date": "1642150366008",
+          "content": "Tôi đăng ký xét nghiệm trong chuyến bay trở về Đà Lạt, khi đến trung tâm chi nhánh tại Phú Nhuận hợp đồng đăng ký xét nghiệm của tôi vẫn chưa được cập nhật. Mất thời gian chờ đợi không liên hệ được nhân viên tổng đài của Traveloka. Quá mất thời gian nên tôi tự bỏ tiền ra làm xét nghiệm và xem như mất luôn phí đăng ký xét nghiệm mua cùng vé máy bay. Quá mất thời gian, yếu kém \n",
+          "rating": 2
+        },
+        {
+          "userId": 28,
+          "date": "1642072052076",
+          "content": "Nhân viên hỗ trợ tận tình, rất hài lòng\n",
+          "rating": 5
+        },
+        {
+          "userId": 29,
+          "date": "1642065872082",
+          "content": "Mọi thứ đúng như mô tả, nhân viên thân thiện",
+          "rating": 5
+        },
+        {
+          "userId": 30,
+          "date": "1641963762382",
+          "content": "Trong thông tin xét nghiệm có ghi thời gian là từ 13h-17h hàng ngày, nhưng khi đến nơi thì nhân viên báo là Chủ Nhật không làm việc. Quá vô lý",
+          "rating": 2
+        },
+        {
+          "userId": 31,
+          "date": "1641862373114",
+          "content": "Nếu bay giờ sáng, nhà xa sân bay thì phải chạy ra từ hôm trước. Không có chỗ để xe phải đi khá xa để gửi xe và tốn phí. Nhân viên ok. ",
+          "rating": 3
+        },
+        {
+          "userId": 32,
+          "date": "1641612072359",
+          "content": "dịch vụ ok. nhanh gọn nhiệt tình",
+          "rating": 5
+        },
+        {
+          "userId": 33,
+          "date": "1641544170636",
+          "content": "ko có chỗ để xe, phải đi sang đường đi bộ 100m rất bất tiện",
+          "rating": 3
+        },
+        {
+          "userId": 34,
+          "date": "1641362679058",
+          "content": "Quá đông đúc, thời gian chờ xét nghiệm quá lâu, nếu cần ra sân bay gấp chắc chắn đây không phải lựa chọn tốt. Ở Diag đợi test từ 8h đến 9h30 mới đến lượt. Test xong phải ngồi đợi thêm 1,5h mới có kết quả. Mất hết khoảng 3 tiếng. Mình khuyên mọi người đến đặt chuyến bay gấp thì ra hẳn sân bay test cho nhanh. Còn thong thả trước 1 ngày thì hẵng đến Diag. ",
+          "rating": 3
+        },
+        {
+          "userId": 35,
+          "date": "1641316435473",
+          "content": "cân cải thiện nhiều hơn ",
+          "rating": 2
+        },
+        {
+          "userId": 36,
+          "date": "1641296661708",
+          "content": "Mình sử dụng dịch vụ tại CN Nguyễn Du thì khá vắng vào giờ chiều. Nhân viên rất lịch sự. Kết quả có rất nhanh, tuy nhiên mình không nhận được tin nhắn và phải tự lên website tra cứu. ",
+          "rating": 4
+        },
+        {
+          "userId": 37,
+          "date": "1641288293757",
+          "content": "Nhân viên hỗ trợ cũng tốt, nói chung là trải nghiệm bình thường không có gì quá nổi bật",
+          "rating": 5
+        },
+        {
+          "userId": 38,
+          "date": "1641201579657",
+          "content": "Mua dịch vụ trên app rồi đến nơi không dùng dc phải bỏ tiền mua dịch vụ lần nữa và không được hoàn tiền cũng như tiếp nhận ý kiến từ app. Rất tệ\n",
+          "rating": 2
+        },
+        {
+          "userId": 39,
+          "date": "1641147267987",
+          "content": "nhân viên nhiệt tình, chất lượng, kết quả nhanh chóng",
+          "rating": 5
+        },
+        {
+          "userId": 40,
+          "date": "1641009809776",
+          "content": "Cơ sở nằm ngay mặt đường lớn dễ tìm, khang trang, hiện đại. Nhân viên lịch sự, tận tình. Mình làm thời điểm cuối tháng 12 sau khi chính phủ bỏ quy định phải có xét nghiệm âm tính trước khi lên máy bay nên khi tới xét nghiệm thì khá vắng khách, không phải đợi chờ. Kết quả được gửi thẳng tới điện thoại qua tin nhắn rất nhanh, sau 20 phút lấy mẫu. Điểm trừ là địa điểm gửi xe quá xa.",
+          "rating": 5
+        },
+        {
+          "userId": 41,
+          "date": "1640786015110",
+          "content": "Tuyệt vời. Quy trình lấy mẫu an toàn, kết quả xét nghiệm nhanh, thuận tiện.",
+          "rating": 5
+        },
+        {
+          "userId": 42,
+          "date": "1639993238344",
+          "content": "Nội dung trên phiếu luôn yêu cầu phải đặt lịch trước khi tới, tuy nhiên tổng đài gọi đặt lịch thì luôn bị bận. Vì vậy, nếu không cần thiết thì trên phiếu không cần nhắc việc đặt lịch, để tránh bị hoang mang",
+          "rating": 4
+        },
+        {
+          "userId": 43,
+          "date": "1639902447546",
+          "content": "Có kết quả và cập nhật lên ứng dụng nhanh chóng\n",
+          "rating": 5
+        },
+        {
+          "userId": 44,
+          "date": "1639295485853",
+          "content": "Đến nơi nhân viên bảo chờ xong đến lượt thì báo là không nhận xét nghiệm nữa\n",
+          "rating": 2
+        },
+        {
+          "userId": 45,
+          "date": "1639014891398",
+          "content": "trải nghiệm tốt",
+          "rating": 5
+        },
+        {
+          "userId": 46,
+          "date": "1638917990849",
+          "content": "cơ sở sạch sẽ, nhân viên thân thiện, lấy mẫu và có kết quả nhanh, giấy chứng nhận kết quả xét nghiệm có cả phần tiếng Anh và trình bày dể hiểu.",
+          "rating": 5
+        },
+        {
+          "userId": 47,
+          "date": "1638760375090",
+          "content": "làm việc ko khoa học\nkhông thực hiện 5K\nthiếu bãi xe cho khách hàng \nnhân viên không biết xử lý vấn đề",
+          "rating": 2
+        },
+        {
+          "userId": 48,
+          "date": "1638751833257",
+          "content": "tôi chưa nhận được kết quả trong khi 10h tôi bay",
+          "rating": 3
+        },
+        {
+          "userId": 49,
+          "date": "1637858149407",
+          "content": "sạch sẽ, nhân viên nhiệt tình, nhanh gọn",
+          "rating": 5
+        },
+        {
+          "userId": 50,
+          "date": "1637600844362",
+          "content": "Trả phiếu kết quả bị sai thông tin về sđt, ngày sinh, cmnd",
+          "rating": 4
+        },
+        {
+          "userId": 51,
+          "date": "1637559142784",
+          "content": "Quy trình điền thông tin hơi mất thời gian.",
+          "rating": 5
+        },
+        {
+          "userId": 52,
+          "date": "1637412165093",
+          "content": "Phục vụ rất tốt. Nhiên viên cực kì thân thiện. Có kết quả nhanh hơn mình nghĩ. ",
+          "rating": 5
+        },
+        {
+          "userId": 53,
+          "date": "1637342645160",
+          "content": "dịch vụ nhanh chóng, tư vấn nhiệt tình",
+          "rating": 5
+        },
+        {
+          "userId": 54,
+          "date": "1637208484212",
+          "content": "Nhân viên phòng khám rất chu đáo nhiệt tình, hotline chưa tốt lắm, không thấy liên hệ lại khách hàng báo thông tin. ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "231 Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6695957", "lat": "10.7997476", "valid": true }
@@ -354,7 +1388,7 @@
     "id": "9444415873886",
     "name": "Vé xe Limousine Thành phố Hồ Chí Minh đi Tây Ninh ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9444415873886/Limousine%2520Bus%2520Transfer%2520from%2520Ho%2520Chi%2520Minh%2520City%2520to%2520Tay%2520Ninh%2520-62db786c-9a0f-42b4-82a1-8eb302f038dc.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.646508", "lat": "10.785512", "valid": true }
@@ -384,7 +1418,60 @@
     "id": "2001453380899",
     "name": "Noir. Dining in the Dark Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001453380899/Noir.%2520Dining%2520in%2520the%2520Dark%2520Saigon-596d86a2-45e5-446b-a681-8307c6ce036b.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.85, "count": "10" },
+    "review": {
+      "score": 4.85,
+      "count": "10",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1593342392891",
+          "content": "Trải nghiệm ăn trong bóng tối thực sự mới lạ và ý nghĩa. 11 món ăn cực ngon và sáng tạo, highly recommend cho ai tìm kiếm trải nghiệm mới ở Sài Gòn. ",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1577549010962",
+          "content": "Thật sự là 1 trải nghiệm tuyệt vời và mới lạ. Các món ăn cũng rất ngon vừa miệng. ",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1576825407820",
+          "content": "Rất đáng để trải nghiệm ít nhất một lần trong đời nhưng chỉ thích hợp với người nào thích khám phá.",
+          "rating": 5
+        },
+        {
+          "userId": 3,
+          "date": "1576384641215",
+          "content": "Thật tuyệt vời khi cả gia đình cùng chia sẻ một trải nghiệm mới với đồ ăn.  Chúng tôi đã rất vui và ấn tượng với dịch vụ ở Noir. Chắc chắn gia đình tôi sẽ quay lại.  Các con tôi đã nói rất nhiều về trải nghiệm này trong suốt cả ngày hôm nay. Rất mong Traveloka có thể giới thiệu với chúng tôi những trải nghiệm thú vị tương tự.  Cảm ơn! ",
+          "rating": 4.5
+        },
+        {
+          "userId": 4,
+          "date": "1575367513560",
+          "content": "Dịch vụ đáng thử ở Sài Gòn. Rất khuyến khích. ",
+          "rating": 5
+        },
+        {
+          "userId": 5,
+          "date": "1571022899968",
+          "content": "Trải nghiệm ăn trong bóng tối lần đầu tiên trong đời. Có như vậy mới thấu hiểu được những sự mất mát của các bạn khiếm thị. Thấy thương các bạn hơn nhiều. Món ăn ngon, các bạn phục vụ khá chuyên nghiệp, vui vẻ và nhiệt tình. Bác bảo vệ cũng dễ thương nữa.",
+          "rating": 4.5
+        },
+        {
+          "userId": 6,
+          "date": "1565577032719",
+          "content": "Một trải nghiêm thật sự độc đáo và đầy tính nhân văn. Giá cả quá tuyệt vời cho một tối fine dining.",
+          "rating": 5
+        },
+        {
+          "userId": 7,
+          "date": "1563172518739",
+          "content": "Một trải nghiệm rất độc và lạ khi ăn hoàn toàn trong bóng tối và được phục vụ bởi các bạn khiếm thị. Lúc đầu vào phòng ăn có hơi ngợp vì tối nên mình không nhìn được gì, nhưng sau 1 lúc sẽ quen. Mình ăn set menu đồ Âu, đồ ăn ngon, nhất là món cá và desserts. Nếu có dịp sẽ dắt bạn bè đến để ủng hộ mô hình kinh doanh rất nhân văn này.",
+          "rating": 4.5
+        }
+      ]
+    },
     "location": {
       "summary": "180D Hai Bà Trưng, Street, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -433,7 +1520,18 @@
     "id": "8800312056911",
     "name": "Voucher Giftpop sử dụng tại chuỗi nhà hàng Kichi-Kichi",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8800312056911/Kichi-Kichi%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-0da3b2bb-3e45-415f-9a48-9c60f178b091.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1647859806152",
+          "content": "Ngon, rẻ , dùng cộng gộp voucher được. ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -457,7 +1555,7 @@
     "id": "7442936363508",
     "name": "Vé xe khứ hồi Limousine Thành phố Hồ Chí Minh đi Núi Bà, Tây Ninh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7442936363508/Round-Trip%2520Limousine%2520Bus%2520Transfer%2520from%2520Ho%2520Chi%2520Minh%2520City%2520to%2520Nui%2520Ba%2520Mountain%252C%2520Tay%2520Ninh%2520Province-5b9cc444-f615-4d4b-a1ff-5d2441f4c11c.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.646508", "lat": "10.785512", "valid": true }
@@ -487,7 +1585,7 @@
     "id": "4533347824091",
     "name": "Saigon City Traditional Vietnamese Water Puppet Show with Dinner",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4533347824091/Saigon%2520City%2520Traditional%2520Vietnamese%2520Water%2520Puppet%2520Show%2520with%2520Dinner-725c163a-0acd-42d4-823c-b68a87e1d471.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -524,7 +1622,18 @@
     "id": "6499349484147",
     "name": "Khoá học chèo SUP cho Người mới bắt đầu chơi tại Sài Gòn ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6499349484147/SUP%2520Training%2520Course%2520for%2520Beginners%2520in%2520Saigon%2520-b981d71c-86c3-4913-a60e-f9b4afd0d0bb.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1649157758826",
+          "content": "Tốt, tuyệt, vui, nhiệt tình, đã!",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Đ. 400A, Phước Long A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.7591755", "lat": "10.8147449", "valid": true }
@@ -556,7 +1665,7 @@
     "id": "8629919662967",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Gogi House ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8629919662967/Gogi%2520House%2520Restaurant%2520Vouchers%2520by%2520Giftpop-b8bb4676-0ae7-49ad-a1e4-ec5550d5133f.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -580,7 +1689,7 @@
     "id": "4252591828704",
     "name": "Dịch vụ thuê PlayStation 5 trọn bộ tại Sài Gòn  - Thue Nhanh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4252591828704/PlayStation%25205%2520Full%2520Package%2520Rental%2520Service%2520in%2520Ho%2520Chi%2520Minh%2520City%2520by%2520Thue%2520Nhanh-57ba7ceb-1cf5-4ff1-ac3f-e6d37f53ae1b.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "7bis Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7029053", "lat": "10.7877428", "valid": true }
@@ -599,7 +1708,18 @@
     "id": "3253881229772",
     "name": "Workshop làm nến thơm (Quận 1, TPHCM) ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3253881229772/Scented%2520Candle%2520Workshop%2520%2528District%25201%252C%2520HCMC%2529%2520-11fedadc-6378-465d-8c51-ba96f159bf22.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1650166501134",
+          "content": "cực tốt ạ, mọi người nên tham gia thử nhé",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "10C2 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7026734", "lat": "10.7884795", "valid": true }
@@ -638,7 +1758,18 @@
     "id": "2000220296527",
     "name": "Vé xe Limousine Vũng Tàu đi Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000220296527/Limousine%2520Bus%2520Transfer%2520from%2520Vung%2520Tau%2520to%2520Saigon-a4071e61-e29c-429f-9584-d84b765690bf.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1597903134963",
+          "content": "An toàn, đúng giờ, chuyên nghiệp.",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -664,7 +1795,18 @@
     "id": "9745553030219",
     "name": "Vé vào cửa Kidzooona Aeon Mall Bình Tân ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9745553030219/Kidzooona%2520Aeon%2520Mall%2520Binh%2520Tan%2520Tickets%2520-b6a62921-0513-44ba-871f-109752f31464.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1648300057694",
+          "content": "Rất tuyệt vời , khu vui chơi sạch sẽ thú vị ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "1 Đường Số 17A, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6119309", "lat": "10.7427497", "valid": true }
@@ -683,7 +1825,7 @@
     "id": "2001269357497",
     "name": "Tour trekking B'Lao - 2N1Đ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001269357497/B%2527Lao%2520Trekking%2520-%25202D1N%2520Tour-57ebd985-825d-4164-a882-ab0160ceb51d.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -702,7 +1844,7 @@
     "id": "2000661009753",
     "name": "Dịch vụ trung chuyển riêng sân bay quốc tế Tân Sơn Nhất đến các quận tại \bSài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000661009753/Tan%2520Son%2520Nhat%2520International%2520Airport%2520Private%2520Transfer%2520to%2520Districts%2520of%2520Saigon-8ff7b291-998c-482f-9c7d-be588c5c3be2.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 3.75, "count": "4" },
+    "review": { "score": 3.75, "count": "4", "reviews": [] },
     "location": {
       "summary": "Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -721,7 +1863,7 @@
     "id": "8753342613600",
     "name": "Vé vào cửa Kidzooona Aeon Mall Tân Phú ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8753342613600/Kidzooona%2520Aeon%2520Mall%2520Tan%2520Phu%2520Tickets%2520-64bfe289-49bc-4af1-a542-d19ad24a2b78.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": { "score": 5, "count": "1", "reviews": [] },
     "location": {
       "summary": "30 Đ. Tân Thắng, Sơn Kỳ, Tân Phú, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6173945", "lat": "10.8011622", "valid": true }
@@ -740,7 +1882,7 @@
     "id": "4320898461136",
     "name": "Vé xe Limousine Tây Ninh đi Thành phố Hồ Chí Minh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4320898461136/Limousine%2520Bus%2520Transfer%2520from%2520Tay%2520Ninh%2520to%2520Ho%2520Chi%2520Minh%2520City%2520-5cdc1502-790b-4205-981f-209b910eacdf.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.646508", "lat": "10.785512", "valid": true }
@@ -770,7 +1912,48 @@
     "id": "2000883486413",
     "name": "Quê Một Cục Spa Sài Gòn - Dịch vụ chăm sóc tóc ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000883486413/Que%2520Mot%2520Cuc%2520Spa%2520Saigon%2520Hair%2520Treatments%2520-b6d4295e-e4fd-40dd-9374-da115ae82074.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.4, "count": "8" },
+    "review": {
+      "score": 4.4,
+      "count": "8",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1607413641400",
+          "content": "dịch vụ cực kỳ tốt, cảm thấy tóc rất mềm và mượt. mua sale xperience đc rẻ hơn bình thường hơn 50%, quy đổi cũng dễ dàng. ",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1577084538692",
+          "content": "Nhân viên nhiệt tình, không gian ấm cúng, dịch vụ tốt.",
+          "rating": 4
+        },
+        {
+          "userId": 2,
+          "date": "1576974140493",
+          "content": "Retro, ổn và dịch vụ tốt. Khuyến nghị đi.",
+          "rating": 4.5
+        },
+        {
+          "userId": 3,
+          "date": "1576847230773",
+          "content": "Nhân viên nhiệt tình, không gian đẹp.",
+          "rating": 4
+        },
+        {
+          "userId": 4,
+          "date": "1571794983480",
+          "content": "Ít nhân viên gội đầu nữ, nếu có nhân viên bảo vệ giữ xe và dắt xe thì OK hơn.",
+          "rating": 4.5
+        },
+        {
+          "userId": 5,
+          "date": "1561013527404",
+          "content": "Trải nghiệm rất thư giãn và thoải mái. Nhân viên dễ thương.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "53 Trần Khánh Dư, Tân Định, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -793,7 +1976,7 @@
     "id": "2000220297395",
     "name": "Vé xe Limousine Nha Trang đi Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000220297395/Limousine%2520Bus%2520Transfer%2520from%2520Nha%2520Trang%2520to%2520Saigon-a45120e3-d76f-4d56-a719-1567774bc14b.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -813,7 +1996,7 @@
     "id": "2000733703592",
     "name": "Hoshi Spa Sài Gòn - Dịch vụ mát-xa",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000733703592/Hoshi%2520Spa%2520Saigon%2520Massage%2520Treatments-5bd57623-ae31-4ecc-8fe8-89d7180de84e.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "175 Đường Trần Hưng Đạo, Phường 10, Quận 5, Hồ Chí Minh, Vietnam",
       "location": {
@@ -832,7 +2015,7 @@
     "id": "5799970615799",
     "name": "Workshop làm xà phòng (Quận 1, TPHCM) ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5799970615799/Soap%2520Making%2520Workshop%2520%2528District%25201%252C%2520HCMC%2529%2520-1adf3edf-dc1a-4c38-bdd8-660818711706.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "10C2 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7026734", "lat": "10.7884795", "valid": true }
@@ -860,7 +2043,7 @@
     "id": "2000354530979",
     "name": "Mầm Gạo Spa Sài Gòn - Dịch vụ mát-xa ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000354530979/Mam%2520Gao%2520Spa%2520Saigon%2520Massage%2520Treatments-a4a8d9d4-ecae-4138-b80b-f2b9af7204e7.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "69 Hoa Lan, Phường 7, Phú Nhuận, Hồ Chí Minh, Vietnam",
       "location": {
@@ -882,7 +2065,114 @@
     "id": "6823204348172",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận Phú Nhuận TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6823204348172/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Phu%2520Nhuan%2520District%2520HCMC%2520-c421652f-5571-488f-801b-0e39e39dfa55.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.15, "count": "20" },
+    "review": {
+      "score": 4.15,
+      "count": "20",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1649632285833",
+          "content": "Tiền phí test đã bao gồm trong vé máy bay nhưng khách đến vẫn thu thêm 500 ngàn. Khi quay lại nói thì không được trả lại tiền. ",
+          "rating": 2
+        },
+        {
+          "userId": 1,
+          "date": "1649290845530",
+          "content": "Nhân việc làm việc chuyên nghiệp, hỗ trợ nhiệt tình, kết quả có thể có sớm hơn so với dự định.\n",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1648273329878",
+          "content": "Dịch vụ nhanh chóng, nhân viên cũng ổn ",
+          "rating": 5
+        },
+        {
+          "userId": 3,
+          "date": "1647774097421",
+          "content": "Mọi thứ đều tuyệt vời như hình ảnh và mô tả.",
+          "rating": 5
+        },
+        {
+          "userId": 4,
+          "date": "1646546612255",
+          "content": "Bên này nhân viên nhiệt tình, nhanh lắm ",
+          "rating": 5
+        },
+        {
+          "userId": 5,
+          "date": "1644626882353",
+          "content": "thủ tục đơn giản, có kết quả nhanh chóng, có thể tra cứu online",
+          "rating": 5
+        },
+        {
+          "userId": 6,
+          "date": "1644170227754",
+          "content": "Nhân viên nhiệt tình, thái độ niềm nở",
+          "rating": 5
+        },
+        {
+          "userId": 7,
+          "date": "1642081868265",
+          "content": "Chờ đợi 1 tiếng! Quá là chậm chạp",
+          "rating": 3
+        },
+        {
+          "userId": 8,
+          "date": "1640960262067",
+          "content": "Nhân viên lấy mẫu nhanh, không đau. Kết quả test nhanh, chỉ mất khoảng 30 phút, nhanh hơn so với các địa điểm test khác.",
+          "rating": 5
+        },
+        {
+          "userId": 9,
+          "date": "1640960129637",
+          "content": "Khâu lấy mẫu nhanh, ko đau. Về việc chuyển đổi phiếu gặp chút vấn đề phát sinh do Traveloka và Diag cập nhật sai lệch thông tin.\n",
+          "rating": 4
+        },
+        {
+          "userId": 10,
+          "date": "1640138964820",
+          "content": "Nhân viên rất nhiệt tình ",
+          "rating": 5
+        },
+        {
+          "userId": 11,
+          "date": "1639924870992",
+          "content": "Làm rất chậm chạp, đợi 45p mới được test dù đặt trước 1-2 ngày. Bảo vệ lần nào cũng không thân thiện. Nhân viên nhập liệu cũng chậm nốt, đây là lần cuối mình dùng dịch vụ của diag. ",
+          "rating": 2
+        },
+        {
+          "userId": 12,
+          "date": "1639897143407",
+          "content": "Nhân viên thái độ ko tốt. Chỗ gửi xe quá xa. ",
+          "rating": 2
+        },
+        {
+          "userId": 13,
+          "date": "1639397559210",
+          "content": "Tuy đã đặt chỗ nhưng khi đến nơi vẫn phải chờ, tốn nhiều thời gian. Đợi kết quả giấy khá lâu. ",
+          "rating": 3
+        },
+        {
+          "userId": 14,
+          "date": "1638812008786",
+          "content": "Đã book lịch trước vì có chuyến bay nhưng khi đến không được hỗ trợ mà phải xếp hàng đợi rất lâu. Xém tễ chuyến bay. Gọi lên tổng đài gần chục cuộc thì bắt máy được 3 cuộc. Gọi nhờ hỗ trợ nhưng vẫn “dạ vâng sẽ hỗ trợ nhưng vẫn không thấy gì”. Chỉ nhận lại sự im lặng và chờ đợi. Quá tệ!!!!",
+          "rating": 2
+        },
+        {
+          "userId": 15,
+          "date": "1638335005675",
+          "content": "Nhân viên trực điện thoại là 1 bạn nam khá cọc tính. \nQui trình test cũng nhanh chóng. Kết quả gửi đt nhanh chóng. \n",
+          "rating": 5
+        },
+        {
+          "userId": 16,
+          "date": "1637594202484",
+          "content": "Rất nhanh. Và cộng 1 điểm khi xét nghiệm xong sẽ cập nhật lên ap PC covid lun rất hài lòng",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "231 Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6695957", "lat": "10.7997476", "valid": true }
@@ -910,7 +2200,18 @@
     "id": "7157226970678",
     "name": "Xét nghiệm COVID-19 tại Diag Center Yersin Quận 1 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7157226970678/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Yersin%252C%2520District%25201%2520HCMC%2520-272140ff-363e-488e-b837-aa9cb6618cea.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "3" },
+    "review": {
+      "score": 5,
+      "count": "3",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1642515753050",
+          "content": "Mọi thứ đều tuyệt vời. ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "119 Yersin, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.696157", "lat": "10.769535", "valid": true }
@@ -938,7 +2239,7 @@
     "id": "7718985714081",
     "name": "Dịch vụ thuê kính thực tế ảo VR Oculus Quest 2 tại Sài Gòn - Thue Nhanh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7718985714081/VR%2520Oculus%2520Quest%25202%2520Rental%2520Service%2520in%2520Ho%2520Chi%2520Minh%2520City%2520by%2520Thue%2520Nhanh-f4579889-9a49-4abf-80da-b39eb12a9813.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "7bis Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7029053", "lat": "10.7877428", "valid": true }
@@ -959,7 +2260,48 @@
     "id": "7008472559316",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 7 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7008472559316/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%25207%2520HCMC%2520-3e80c1b6-f3ed-4a6d-89e3-e178d13e431f.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 3.85, "count": "6" },
+    "review": {
+      "score": 3.85,
+      "count": "6",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1642326802926",
+          "content": "Traveloka chưa connect với phòng khám nên mình ko đc test?",
+          "rating": 2
+        },
+        {
+          "userId": 1,
+          "date": "1640874548181",
+          "content": "Phòng xét nghiệm 198 nguyễn thị thập q7 quá nhỏ, đang dịch phức tạp như thế thì không đủ đảm bảo an toàn. Tôi phải đi 2 lần trong ngày mới lấy xét nghiệm được. ",
+          "rating": 3
+        },
+        {
+          "userId": 2,
+          "date": "1640140445945",
+          "content": "Rất đông, đợi rất lâu. Không gian nhỏ nên không an toàn. \n",
+          "rating": 3
+        },
+        {
+          "userId": 3,
+          "date": "1639719738194",
+          "content": "Nhanh, nhân viên hỗ trợ nhiệt tình. \n",
+          "rating": 5
+        },
+        {
+          "userId": 4,
+          "date": "1639632787363",
+          "content": "Việc đặt test ở Diag trên Traveloka rất dễ dàng và tiện lợi. Quy trình test tại Diag rất nhanh chỉ mất tầm 5-10ph, sau 1h sẽ có kết quả, khách sẽ nhận được tin nhắn báo có kết quả kèm link online để có thể đến lấy bản giấy hoặc tải bản online đều được. Giá cả khá rẻ so với thị trường và có nhiều chi nhánh khắp thành phố. Mình vô cùng hài lòng!!!",
+          "rating": 5
+        },
+        {
+          "userId": 5,
+          "date": "1637991197145",
+          "content": "xét nghiệm nhanh nhẹ nhàng nhân viên nhiệt tình",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "198 Nguyễn Thị Thập, Bình Thuận, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7171316", "lat": "10.7389323", "valid": true }
@@ -987,7 +2329,7 @@
     "id": "7880496979533",
     "name": "[GIFTPOP] Voucher sử dụng tại hệ thống Phúc Long Coffee & Tea ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7880496979533/%255BGIFTPOP%255D%2520Phuc%2520Long%2520Coffee%2520%2526%2520Tea%2520Chain%2520Vouchers-3e730c9a-937b-4616-83ef-67f899bde435.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1002,7 +2344,24 @@
     "id": "9819739801591",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 10 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9819739801591/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%252010%2520HCMC%2520-e3533124-f0fb-471e-83e9-971bcce9e833.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 3.5, "count": "2" },
+    "review": {
+      "score": 3.5,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1641096472781",
+          "content": "Mặc dù đến lúc 7h nhưng nv chỉ đưa tờ đăng ký không hướng dẫn điền thông tin mã đặt chỗ dẫn đến việc khách hàng phải đợi đến 40p mới được test",
+          "rating": 2
+        },
+        {
+          "userId": 1,
+          "date": "1640494078940",
+          "content": "Quy trình nhanh chóng, tiện lợi",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "420 Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6727609", "lat": "10.7750726", "valid": true }
@@ -1030,7 +2389,24 @@
     "id": "9128502429841",
     "name": "[HẠN DÙNG DÀI] Dịch vụ taxi Mai Linh đi trong nội thành Hồ Chí Minh | MÃ PIN 6868",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9128502429841/%255BLONG%2520VALIDITY%255D%2520Mai%2520Linh%2520Taxi%2520Transfer%2520within%2520Ho%2520Chi%2520Minh%2520City%2520%257C%2520PIN%2520NUMBER%25206868-ad9b4699-0e3a-4139-8adf-7f181b693bf0.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.25, "count": "2" },
+    "review": {
+      "score": 4.25,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1638431205905",
+          "content": "Tài xế đến đúng giờ, quy đổi dễ dàng chỉ cần đưa mã và đọc mã pin là xong",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1631604206921",
+          "content": "Khách đã chuẩn bị đầy đủ mã QR và PIN code nhưng tài xế ko biết cách quét mã, làm mất thời gian đôi bên. Phải gọi tổng đài nhiều lần để nhờ hỗ trợ tài xế.",
+          "rating": 3.5
+        }
+      ]
+    },
     "location": {
       "summary": "Tan Son Nhat Airport, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.66383", "lat": "10.815592", "valid": true }
@@ -1048,7 +2424,7 @@
     "id": "2002034807948",
     "name": "Mầm Gạo Spa Sài Gòn - Dịch vụ chăm sóc da mặt",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2002034807948/Mam%2520Gao%2520Spa%2520Saigon%2520Facial%2520Treatments-3cf26242-0135-4c55-a438-8f7b0317e6e1.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1067,7 +2443,7 @@
     "id": "2000935526982",
     "name": "Dịch vụ chăm sóc tóc Cỏ Thơm Salon & Cafe Sài Gòn (Đường Phạm Văn Chí)",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000935526982/Co%2520Thom%2520Salon%2520%2526%2520Cafe%2520Saigon%2520Hair%2520Treatments%2520%2528Pham%2520Van%2520Chi%2520Street%252C%2520District%25206%2529-3f5cda0a-485b-449a-b9f9-849dd1aa503b.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "569 Đường Phạm Văn Chí, Phường 7, Quận 6, Hồ Chí Minh 700000, Vietnam",
       "location": {
@@ -1091,7 +2467,7 @@
     "id": "3056149192654",
     "name": "Voucher Giftpop sử dụng tại hệ thống gà rán Chicken Plus ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3056149192654/Chicken%2520Plus%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-31e76f5b-f4ac-4d94-91f7-b3fe24bfdee5.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.700972", "lat": "10.776561", "valid": true }
@@ -1111,7 +2487,42 @@
     "id": "8775530322397",
     "name": "[CHỈ Ở TPHCM] Dịch vụ giao tận nhà kit test Covid-19 từ DOCOSAN",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8775530322397/%255BHCMC%2520ONLY%255D%2520Covid-19%2520Rapid%2520Test%2520Kit%2520Home%2520Delivery%2520by%2520DOCOSAN%2520-8077ef53-7b0e-4dd2-b6b5-dcf7cdfeea4d.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4, "count": "5" },
+    "review": {
+      "score": 4,
+      "count": "5",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1646567985776",
+          "content": "Kit test lỗi không có dung dịch trong ống để Test. Dịch vụ ship hàng chậm, phiền phức khi shipper gọi điện thoại liên tục. \n",
+          "rating": 2
+        },
+        {
+          "userId": 1,
+          "date": "1641186797003",
+          "content": "giao hàng nhanh, mình đợt tối hôm trước thì sáng hôm sau đã được giao. Trước khi giao thì nhân viên gọi điện xác nhận.\nKit test chính hãng nên yên tâm sử dụng.",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1638641334195",
+          "content": "Mua 1 kit test 140k, tính thêm cái phí ship 56k nữa gần 200k. giá quá đắt. ",
+          "rating": 3
+        },
+        {
+          "userId": 3,
+          "date": "1638093744810",
+          "content": "Bộ kit thì oke nhưng tiền ship hơi chát xíu (lúc đầu cứ nghĩ là được giao từ q1 chứ) nhưng chấp nhận được vì được giao từ quận 2 qua PN nên cũng xa. \n",
+          "rating": 5
+        },
+        {
+          "userId": 4,
+          "date": "1631500563363",
+          "content": "đặt hàng t5 thì t6 đã nhận hàng rồi. đóng gói đẹp, ship nhanh rất uy tín, mình yên tâm mua vì hàng chính hãng",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "9 Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7057019", "lat": "10.7824365", "valid": true }
@@ -1132,7 +2543,18 @@
     "id": "9254219311353",
     "name": "Xét nghiệm COVID-19 tại Diag Center Nguyễn Du Quận 1 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9254219311353/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Nguyen%2520Du%252C%2520District%25201%2520HCMC%2520-27335cd0-8934-4af5-9bea-880f886ed86c.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.65, "count": "3" },
+    "review": {
+      "score": 4.65,
+      "count": "3",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1640060080781",
+          "content": "Mọi thứ đều tốt trừ việc đã book giờ nhưng khi tới nơi mình vẫn phải bốc số thự tự và chờ từ 10h30 đến 11h45 mình mới được vào trong test và phải đừng chờ ngoài phòng khám không có ghế ngồi gì hết",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "53 Nguyễn Du, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7008095", "lat": "10.7797214", "valid": true }
@@ -1160,7 +2582,36 @@
     "id": "6238414345548",
     "name": "Voucher Giftpop sử dụng tại nhà hàng iSushi",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6238414345548/iSushi%2520Chain%2520Restaurant%2520Vouchers%2520by%2520Giftpop-65bec513-96cb-460c-ae8e-9e678ef4a82b.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "4" },
+    "review": {
+      "score": 5,
+      "count": "4",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1648094093026",
+          "content": "quy đổi nhanh chóng. sử dụng voucher tiết kiệm hơn khi thanh toán trực tiếp",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1644208384735",
+          "content": "Voucher giúp gia đình mình giảm được một khoản, rất vui, hi vọng Isushi kết hợp với Traveloka triển khai nhiều chương trình như thế.",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1643643474478",
+          "content": "Thức ăn tươi ngon, tráng miệng tuyệt vời, nhân viên và quản lý phục vụ chu đáo.",
+          "rating": 5
+        },
+        {
+          "userId": 3,
+          "date": "1643176449483",
+          "content": "Quy đổi dễ dàng và mình thích điều đó. \n",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1184,7 +2635,7 @@
     "id": "2001638852985",
     "name": "Sen Spa Lê Thánh Tôn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001638852985/Sen%2520Spa%2520Le%2520Thanh%2520Ton-a772efb5-8def-48bd-8890-a3d5cf2f0efd.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Lê Thánh Tôn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7009793", "lat": "10.7762754", "valid": true }
@@ -1203,7 +2654,7 @@
     "id": "7606974055165",
     "name": "Workshop làm son dưỡng (Quận 1, TPHCM) ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7606974055165/Lip%2520Balm%2520Making%2520Workshop%2520%2528District%25201%252C%2520HCMC%2529%2520-13361ee5-c532-434a-844a-0add5e641500.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "10C2 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7026734", "lat": "10.7884795", "valid": true }
@@ -1241,7 +2692,7 @@
     "id": "2000219341353",
     "name": "Vé xe Limousine khứ hồi Sài Gòn - Cà Mau ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000219341353/Limousine%2520Bus%2520Round-trip%2520Transfer%2520from%2520Saigon%2520to%2520Ca%2520Mau-cb5297f2-4740-4a00-89e8-52a98d2574b1.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1260,7 +2711,30 @@
     "id": "7146864593720",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận Bình Thạnh TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7146864593720/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Binh%2520Thanh%2520District%2520HCMC%2520-5e39ed37-d02d-4ff5-a918-95e283c36b67.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "3" },
+    "review": {
+      "score": 5,
+      "count": "3",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1641368830846",
+          "content": "nhanh gọn. được lấy ngay và cập nhật nhanh trên app pc covid",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1639155564808",
+          "content": "nhân viên quét mã nhanh, khách Traveloka không cần điền giấy ",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1639106620375",
+          "content": "Dịch vụ tốt, sạch sẽ, kết quả nhanh chóng\n",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "85 Nơ Trang Long, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6950244", "lat": "10.8094633", "valid": true }
@@ -1288,7 +2762,7 @@
     "id": "6561849350642",
     "name": "Dịch vụ thuê Nintendo Switch trọn bộ tại Sài Gòn -Thue Nhanh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6561849350642/Nintendo%2520Switch%2520Full%2520Package%2520Rental%2520Service%2520in%2520Ho%2520Chi%2520Minh%2520City%2520by%2520Thue%2520Nhanh-894fe587-be0a-4725-b6f4-d70375bd5e17.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "7bis Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7029053", "lat": "10.7877428", "valid": true }
@@ -1310,7 +2784,30 @@
     "id": "3657300147937",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 2 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3657300147937/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%25202%2520HCMC%2520-53ea1aef-1ae4-4dfb-8f5e-60b6ebb1bf6e.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.65, "count": "8" },
+    "review": {
+      "score": 4.65,
+      "count": "8",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1649910598467",
+          "content": "Nhanh\nTiện\nChuyên nghiệp \nKhá đông",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1647414706386",
+          "content": "Quy trình nhanh. Nhân viên chuyên nghiệp\n",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1641454251883",
+          "content": "Mua voucher TVLK dùng nhanh gọn lẹ ạ, phòng khám hơi đông nhưng trả kết quả vẫn rất nhanh. ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "158 Đường Trần Não, P. Bình An, Quận 2, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7303403", "lat": "10.7921965", "valid": true }
@@ -1338,7 +2835,18 @@
     "id": "2000716793969",
     "name": "Voucher bữa ăn tại East West Brewing Co. ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000716793969/Meal%2520Vouchers%2520at%2520East%2520West%2520Brewing%2520Co.-0a3934aa-160d-4171-81b1-8d284f8b34f0.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "2" },
+    "review": {
+      "score": 5,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1582858447281",
+          "content": "Mua voucher trên Traveloka tiết kiệm được khá nhiều luôn. Giá bán bình thường thấy đã rẻ rồi nhập code khuyến mãi tiết kiệm được thêm 90.000 VND nữa. Nhân viên dễ thương, đồ ăn ngon. Sẽ giới thiệu bạn bè dùng thử.",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "181 Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -1369,7 +2877,24 @@
     "id": "4162748213426",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận Tân Phú TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4162748213426/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Tan%2520Phu%2520District%2520HCMC%2520-401904da-8f77-4798-8b49-a73988783928.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 3, "count": "2" },
+    "review": {
+      "score": 3,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1640485391314",
+          "content": "Có chút vấn đề nhưng đã được hỗ trợ",
+          "rating": 4
+        },
+        {
+          "userId": 1,
+          "date": "1639819175359",
+          "content": "Quá tệ hại, không 1 ai hướng dẫn, hỏi thăm thì từ nhân viên đến bảo vệ chửi, nạt nộ khách, bắt ngồi chờ ngoài nắng nóng, thái độ nhân viên của 1 trung tâm mà còn tệ hại hơn cô bán hàng lề đường. ",
+          "rating": 2
+        }
+      ]
+    },
     "location": {
       "summary": "742 Lũy Bán Bích, Tân Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6381336", "lat": "10.7939902", "valid": true }
@@ -1397,7 +2922,42 @@
     "id": "8470002315776",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận Gò Vấp TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8470002315776/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Go%2520Vap%2520District%2520HCMC%2520-0cb6bd24-775a-41da-aa63-937a567fed6c.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 3.35, "count": "6" },
+    "review": {
+      "score": 3.35,
+      "count": "6",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1647692935379",
+          "content": "Khá là sạch sẽ thân thiên và nhiệt tình ạ\n",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1646977169959",
+          "content": "Công ty không xuất hoá đơn cho khách hàng. ",
+          "rating": 2
+        },
+        {
+          "userId": 2,
+          "date": "1640940713509",
+          "content": "- Chờ đợi lâu. \n- Hệ thống thanh toán của Traveloka không kết nối với phòng khám dẫn đến phòng khám phải xác nhận lại. Tốn thời gian chờ đợi. ",
+          "rating": 2
+        },
+        {
+          "userId": 3,
+          "date": "1640921798409",
+          "content": "Nhân viên hỗ trợ tại Diag có thái độ kém, thời gian chờ xét nghiệm rất lâu",
+          "rating": 4
+        },
+        {
+          "userId": 4,
+          "date": "1640748229934",
+          "content": "Voucher có vấn đề nhân viên tìm không thấy trên hệ thống nên tốn thời gian lâu. Thái độ nhân viên tệ quá sức tệ. \n",
+          "rating": 2
+        }
+      ]
+    },
     "location": {
       "summary": "829 Quang Trung, Phường 12, Gò Vấp, Thành phố Hồ Chí Minh 700000, Việt Nam",
       "location": { "lon": "106.640762", "lat": "10.843825", "valid": true }
@@ -1425,7 +2985,18 @@
     "id": "2000179732139",
     "name": "Bia tươi tại ZumWhere Sài Gòn (quận 1)",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000179732139/Draft%2520Beer%2520at%2520ZumWhere%2520Saigon%2520%2528District%25201%2529-d0c562cc-f735-4f69-aa01-33dc89e64f08.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.5, "count": "3" },
+    "review": {
+      "score": 4.5,
+      "count": "3",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1577511166288",
+          "content": "Không gian rộng, thoải mái, nhạc to vừa phải. Nhưng nhân viên không chú ý khách lắm, với mình đưa voucher từ đầu cho 2 nhân viên khác nhau, đến lúc tính tiền thì vẫn tính tiền tháp bia vào, lại phải đưa voucher cho xem 1 lần nữa để tính lại bill.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "11 Nguyễn Thành Ý, Đa Kao, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -1446,7 +3017,7 @@
     "id": "3765552370953",
     "name": "Workshop thêu tay (Quận 1, TPHCM) ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3765552370953/Hand%2520Embroidery%2520Workshop%2520%2528District%25201%252C%2520HCMC%2529%2520-1eaa67df-33b6-4b91-9633-be6b93b1168f.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "10C2 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7026734", "lat": "10.7884795", "valid": true }
@@ -1468,7 +3039,7 @@
     "id": "6345078209349",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng Lotteria ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6345078209349/Lotteria%2520Chain%2520Vouchers%2520by%2520Giftpop-788ea2c6-cf56-4b0b-8b59-a84694cd1886.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1487,7 +3058,7 @@
     "id": "5149281596699",
     "name": "Xét nghiệm COVID-19 tại Diag Center Đinh Tiên Hoàng Quận 1 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5149281596699/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Dinh%2520Tien%2520Hoang%252C%2520District%25201%2520HCMC%2520-e9f27656-0c83-49fc-82b6-484b6dc1e2d1.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "101 Đ. Đinh Tiên Hoàng, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.697328", "lat": "10.79036", "valid": true }
@@ -1515,7 +3086,7 @@
     "id": "4773535320777",
     "name": "Gói khám sức khoẻ chuyên sâu tại Phòng khám Đa khoa Quốc tế Golden Tân Bình",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4773535320777/Golden%2520Healthcare%2520Clinic%2520Health%2520Checkup%2520Service%2520%257C%2520Tan%2520Binh%2520District%252C%2520HCMC%2520-664172f9-af09-4fd4-ba77-463a9c673e42.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "37 Hoàng Hoa Thám, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6471473", "lat": "10.7992739", "valid": true }
@@ -1534,7 +3105,7 @@
     "id": "4835682809031",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Gogi Steak House",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4835682809031/Gogi%2520Steak%2520House%2520Restaurant%2520Vouchers%2520by%2520Giftpop-e8cb5dd4-5d80-40d3-8f99-7c2c81a4d95d.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1558,7 +3129,7 @@
     "id": "8704936204756",
     "name": "Dịch vụ thuê PlayStation 4 trọn bộ tại Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8704936204756/PlayStation%25204%2520Full%2520Package%2520Rental%2520Service%2520in%2520Ho%2520Chi%2520Minh%2520City-638db957-a46c-41cf-bf1b-51ceab6d9f35.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1576,7 +3147,7 @@
     "id": "2000917250690",
     "name": "Tour xích lô phố người Hoa tại Sải Gòn - 1 giờ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000917250690/Saigon%2527s%2520Chinatown%2520Cyclo%2520Tour%2520-%25201-Hour%2520Tour-5b57b7bb-9aba-4cf2-8002-85e6d24040e6.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4, "count": "1" },
+    "review": { "score": 4, "count": "1", "reviews": [] },
     "location": {
       "summary": "710 Nguyễn Trãi, Phường 11, Quận 5, Hồ Chí Minh, Vietnam",
       "location": {
@@ -1599,7 +3170,7 @@
     "id": "7097735955923",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 9 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7097735955923/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%25209%2520HCMC%2520-0fe75186-9fa7-4477-b36f-1486bdb8e061.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "75 Lê Văn Việt, Hiệp Phú, Quận 9, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.7765742", "lat": "10.8473704", "valid": true }
@@ -1627,7 +3198,7 @@
     "id": "7680256411344",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng San Fu Lou",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7680256411344/San%2520Fu%2520Lou%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-35bfb7f9-b474-4def-a187-daa5b4df5d91.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1646,7 +3217,7 @@
     "id": "2000661009755",
     "name": "Dịch vụ trung chuyển riêng các quận tại \bSài Gòn đến sân bay quốc tế Tân Sơn Nhất",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000661009755/Districts%2520of%2520Saigon%2520Private%2520Transfer%2520to%2520Tan%2520Son%2520Nhat%2520International%2520Airport-665101b7-b71c-4d3f-84a8-31120d823948.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.65, "count": "6" },
+    "review": { "score": 4.65, "count": "6", "reviews": [] },
     "location": {
       "summary": "Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1665,7 +3236,24 @@
     "id": "5690648225099",
     "name": "Xét nghiệm COVID-19 tại Phòng khám Đa khoa Quốc tế Golden Tân Bình",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5690648225099/COVID-19%2520Test%2520at%2520Golden%2520Healthcare%2520%257C%2520Tan%2520Binh%2520District%252C%2520HCMC%2520-ebc66362-15e4-42df-b266-248f9c2c6e24.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "2" },
+    "review": {
+      "score": 5,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1647865009501",
+          "content": "Mọi thứ đều tốt như quảng cáo nhé. ",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1638944904789",
+          "content": "mọi thứ đều tốt , nhân viên nhiệt tình",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "37 Hoàng Hoa Thám, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6471473", "lat": "10.7992739", "valid": true }
@@ -1690,7 +3278,24 @@
     "id": "8398958774183",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận Thủ Đức TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8398958774183/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Thu%2520Duc%2520District%2520HCMC%2520-98bc077a-fccc-466b-9d9c-8f3b82884085.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "2" },
+    "review": {
+      "score": 5,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1639110142211",
+          "content": "Xét nghiệm nhanh, nhưng phòng xét nghiệm đông quá.",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1637723844163",
+          "content": "Mọi thứ đều tuyệt vời, sẽ quay lại\n\n",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "275 Đ. Tô Ngọc Vân, Linh Đông, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7487488", "lat": "10.8584568", "valid": true }
@@ -1718,7 +3323,7 @@
     "id": "7270464407906",
     "name": "Dịch vụ thuê PlayStation 4 trọn bộ tại Sài Gòn -Thue Nhanh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7270464407906/PlayStation%25204%2520Full%2520Package%2520Rental%2520Service%2520in%2520Ho%2520Chi%2520Minh%2520City%2520by%2520Thue%2520Nhanh-342145d0-5c6a-478c-a278-a77ab448d264.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "7bis Nguyễn Thị Minh Khai, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7029053", "lat": "10.7877428", "valid": true }
@@ -1740,7 +3345,7 @@
     "id": "4502082341365",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 8 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4502082341365/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%25208%2520HCMC%2520-6578ae2f-0997-4d34-8d86-9c7ff515c730.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "199b Phạm Hùng, Phường 4, Quận 8, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6699453", "lat": "10.7389235", "valid": true }
@@ -1768,7 +3373,7 @@
     "id": "6537126494110",
     "name": "Workshop yoga và thiền chuông ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6537126494110/ROUTE%2520OFF%2520Omandala%2520Singing%2520Bowl%2520Meditation%2520%2526%2520Yoga%2520Workshop-7a6c3b79-39a1-4aa2-b088-899d1fb360d0.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "238 Nguyễn Thị Minh Khai, Phường 2, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6837976", "lat": "10.7680253", "valid": true }
@@ -1786,7 +3391,7 @@
     "id": "4154117839159",
     "name": "Voucher Giftpop sử dụng tại chuỗi McDonald's Việt Nam ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4154117839159/McDonald%2527s%2520Vietnam%2520Chain%2520Vouchers%2520by%2520Giftpop-944d8505-3c9c-47cd-99b8-84615b7e6fce.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1805,7 +3410,7 @@
     "id": "6701689301770",
     "name": "Voucher Giftpop sử dụng tại hệ thống Gong Cha Việt Nam ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6701689301770/Gong%2520Cha%2520Vietnam%2520Chain%2520Vouchers%2520by%2520Giftpop-7e2261be-24a3-4027-be23-1b5d2774ea56.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1821,7 +3426,7 @@
     "id": "2001990505559",
     "name": "Tour địa đạo Củ Chi bằng xe máy - 1 ngày",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001990505559/Cu%2520Chi%2520Tunnels%2520Motorcycle%2520Excursion%2520-%2520Day%2520Tour-11c0f7e8-d38d-4c90-9265-6afca6a5a938.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Củ Chi, Ho Chi Minh City, Vietnam",
       "location": {
@@ -1845,7 +3450,7 @@
     "id": "3681855951814",
     "name": "Khám phá TP.HCM với Chuyến Tham quan Chợ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3681855951814/Saigon%2520City%2520Sightseeing%2520Tour-7d2ec503-6d92-422e-b2c4-a0503f157c3b.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Vietnam, Ho Chi Minh City, Ho Chi Minh City",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1864,7 +3469,7 @@
     "id": "2001151132640",
     "name": "Rose de Mai Spa & Clinic Sài Gòn - Dịch vụ chăm sóc da mặt",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2001151132640/Rose%2520de%2520Mai%2520Spa%2520%2526%2520Clinic%2520Saigon%2520Facial%2520Treatments-012d30d1-0ca9-4945-8290-6d8f3939ee41.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.5, "count": "1" },
+    "review": { "score": 4.5, "count": "1", "reviews": [] },
     "location": {
       "summary": "24/4 Phạm Ngọc Thạch, Phường 6, Quận 3, Hồ Chí Minh, Vietnam",
       "location": {
@@ -1889,7 +3494,18 @@
     "id": "5179587261818",
     "name": "Voucher Giftpop sử dụng tại cửa hàng tiện lợi GS25 ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5179587261818/GS25%2520Convenience%2520Store%2520Vouchers%2520by%2520Giftpop-00f394be-fb21-4738-a193-4f7a0a6ff9ae.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "2" },
+    "review": {
+      "score": 5,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1642311250435",
+          "content": "Rất dễ quy đỗi. Cầm QR code ra & nhân viên scan là xong!\n",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1911,7 +3527,7 @@
     "id": "8797414935017",
     "name": "Workshop làm hoa dâu nhúng sô-cô-la (Quận 1, TPHCM) ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8797414935017/Chocolate%2520Covered%2520Strawberry%2520Bouquet%2520Workshop%2520%2528District%25201%252C%2520HCMC%2529%2520-804c3c1d-6213-4607-ac60-e40fa6e7173c.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "10C2 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.7026734", "lat": "10.7884795", "valid": true }
@@ -1946,7 +3562,7 @@
     "id": "8066923352464",
     "name": "Jump Arena FIT Online - Lớp tăng cường sức khoẻ tại nhà 1 tháng",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8066923352464/Jump%2520Arena%2520FIT%2520Online%25201-Month%2520Training%2520Course%2520-%2520Home%2520Exercise%2520for%2520Family%2520-ab6591bf-0480-443f-abfa-d506af968492.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Hồ Chí Minh, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -1963,7 +3579,7 @@
     "id": "4822923822987",
     "name": "[Ngoại thành] Xe chở khách đi từ Sân bay Tân Sơn Nhất đến Nơi cách ly (Cho mọi quốc tịch) | SACO TRAVEL",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4822923822987/%255BOutside%2520of%2520HCMC%255D%2520Transfer%2520Services%2520from%2520Tan%2520Son%2520Nhat%2520International%2520Airport%2520to%2520Quarantine%2520Location%2520%2528All%2520Nationalities%2529%2520%257C%2520SACO%2520TRAVEL-d1880cac-81a0-46c2-acde-ee670524c05f.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.647353", "lat": "10.7856516", "valid": true }
@@ -2000,7 +3616,7 @@
     "id": "5900389772455",
     "name": "Saigon River Sunset Cruise with Food Tour",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5900389772455/Saigon%2520River%2520Sunset%2520Cruise%2520with%2520Food%2520Tour-cd795717-71ff-49fd-920e-1d63a6ef2cf2.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Ho Chi Minh, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2018,7 +3634,18 @@
     "id": "4488996467503",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận Bình Tân TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4488996467503/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Binh%2520Tan%2520District%2520HCMC%2520-676cdd59-4781-4f04-b9eb-7ec3fdffbb6b.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1638431298545",
+          "content": "- Tiện lợi, xét nghiệm ở Bình Tân nhưng chạy qua Quận 6 vẫn lấy kết quả được\n- Mình vào không cần điền phiếu giấy, chỉ đọc thông tin và đưa mã voucher là được làm\n- Đúng giờ, đúng 1h có tin nhắn đến điện thoại báo có kết quả",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "101 Tên Lửa, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.61232", "lat": "10.7460217", "valid": true }
@@ -2046,7 +3673,18 @@
     "id": "2002143328092",
     "name": "Nora O'nail Sài Gòn - Dịch vụ làm móng",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2002143328092/Nora%2520O%2527nail%2520Saigon%2520Nail%2520Treatments-62e8a6ec-efbe-4093-bc1e-e154826f7429.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4, "count": "1" },
+    "review": {
+      "score": 4,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1578364320752",
+          "content": "Các bạn nhân viên làm rất cẩn thận và tỉ mỉ, luôn hỏi khách hàng xem có hài lòng chưa. Mẫu nail mình yêu cầu các bạn làm còn đẹp hơn mẫu nữa. Mình có góp ý nho nhỏ cho Nora: các bạn có thể chuẩn bị gối tựa để khách hàng ngồi thoải mái hơn nè.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "58 Tran Ke Xuong, Ward 3, Binh Thanh District",
       "location": {
@@ -2076,7 +3714,7 @@
     "id": "3176627232467",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Ashima ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3176627232467/Ashima%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-de68b73a-636d-478a-ad90-373bfdb011ea.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2100,7 +3738,7 @@
     "id": "8874003150528",
     "name": "[Nội thành] Xe chở khách F1/F2 đi từ Nhà/Sân bay đến Nơi cách ly (Chỉ cho Công dân Việt Nam) | SACO TRAVEL",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8874003150528/%255BInner%2520City%255D%2520F1%252FF2%2520Passenger%2520Transfer%2520Services%2520from%2520Home%252FAirport%2520to%2520Quarantine%2520Location%2520%2528Vietnamese%2520Nationals%2520Only%2529%2520%257C%2520SACO%2520TRAVEL-164d73c0-c5c6-4ec2-a505-ef996142c661.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.646508", "lat": "10.785512", "valid": true }
@@ -2139,7 +3777,42 @@
     "id": "8732504780218",
     "name": "Xét nghiệm COVID-19 tại Pathlab Xét Nghiệm Bệnh Lý Học Việt Nam",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8732504780218/COVID-19%2520Test%2520at%2520Pathlab%2520%257C%2520District%252011%252C%2520HCMC%2520-14dc3eab-f392-48d9-a82e-4fc9faa4804f.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.3, "count": "7" },
+    "review": {
+      "score": 4.3,
+      "count": "7",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1647873576083",
+          "content": "Mọi thứ rất tốt, sẽ ủng hộ . Mong vẫn âm tính. ",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1647542937900",
+          "content": "Nhanh chóng \nGiá cả cũng ngang ngang những nơi khác",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1637412024258",
+          "content": "Nhân viên nhiệt tình. mình ghi sai thông tin báo lại là mấy bạn ấy làm lại ngay cho mình tờ khác. Rất nhanh. ",
+          "rating": 5
+        },
+        {
+          "userId": 3,
+          "date": "1637025912485",
+          "content": "Xét nghiệm nhanh, kết quả đúng 24h",
+          "rating": 5
+        },
+        {
+          "userId": 4,
+          "date": "1636892525782",
+          "content": "Nhân viên nhiệt tình nhé. Rất tốt. ",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "630 Nguyễn Chí Thanh, Phường 4, Quận 11, Thành phố Hồ Chí Minh 700000, Vietnam",
       "location": { "lon": "106.6585054", "lat": "10.7579164", "valid": true }
@@ -2167,7 +3840,7 @@
     "id": "8859622232177",
     "name": "Saigon City Night Food Tour by Motorbike",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8859622232177/Saigon%2520City%2520Night%2520Food%2520Tour%2520by%2520Motorbike-7c841e39-5173-4107-b256-63ccc7e98586.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh, Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2194,7 +3867,7 @@
     "id": "9950591845103",
     "name": "[Nội thành TPHCM] Xe chở khách giữa Nhà và Bệnh viện/Trung tâm Y tế | SACO TRAVEL",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9950591845103/%255BHCMC%2520Center%2520Only%255D%2520Transfer%2520between%2520Home%2520and%2520Hospital%252FMedical%2520Center%2520%257C%2520SACO%2520TRAVEL-1fc4d043-6561-4810-9e3c-1a874e69a22d.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.647353", "lat": "10.7856516", "valid": true }
@@ -2223,7 +3896,7 @@
     "id": "9835863299377",
     "name": "Gói khám sức khoẻ chuyên sâu tại Phòng khám Vigor Health ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9835863299377/Vigor%2520Health%2520Clinic%2520Health%2520Checkup%2520Service%2520-dc123da1-dfe3-4086-a7db-64e703c5e9fa.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "102a Trương Định, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6807735", "lat": "10.7839503", "valid": true }
@@ -2244,7 +3917,24 @@
     "id": "2000179732105",
     "name": "Bia tươi tại ZumWhere Sài Gòn (quận Phú Nhuận)",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000179732105/Draft%2520Beer%2520at%2520ZumWhere%2520Saigon%2520%2528Phu%2520Nhuan%2520District%2529-364dd0ed-ea78-4b53-aa81-e9c1a4497509.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.35, "count": "3" },
+    "review": {
+      "score": 4.35,
+      "count": "3",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1575783625759",
+          "content": "Quán đẹp, lịch sự, thích hợp cho gặp mặt bạn bè cuối tuần, đặc biệt là đặt trên Traveloka rất nhanh mà còn rẻ.",
+          "rating": 4
+        },
+        {
+          "userId": 1,
+          "date": "1574696776620",
+          "content": "Beer rất ngon, không gian thoáng đãng và đồ ăn thì rất tuyệt, các bạn nên thưởng thức khi đến Hồ Chí Minh, giá cả hợp lý nhất Sài Gòn.",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "117B Nguyễn Đình Chính, Phường 15, Phú Nhuận, Hồ Chí Minh, Vietnam",
       "location": {
@@ -2265,7 +3955,7 @@
     "id": "6330953037213",
     "name": "[GIAO TẬN NHÀ] Đà Lạt Cider thủ công East West Brewing Co. - Cider chai",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6330953037213/%255BHOME%2520DELIVERY%255D%2520Dalat%2520Cider%2520at%2520East%2520West%2520Brewing%2520Co.%2520-%2520Bottled%2520Cider-18726f84-b460-4b6f-bad1-c5de03103c0d.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "181 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6961223", "lat": "10.7730563", "valid": true }
@@ -2287,7 +3977,7 @@
     "id": "5212404034392",
     "name": "[TEST TẠI NHÀ] Xét nghiệm COVID-19 Pathlab | Một số khu vực TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5212404034392/%255BHOME%2520TESTING%255D%2520COVID-19%2520Test%2520by%2520Pathlab%2520%257C%2520Selected%2520Areas%2520of%2520HCMC-e71bcef9-8d8c-461c-b927-328d312eaf85.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "630 Nguyễn Chí Thanh, Phường 4, Quận 11, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6585073", "lat": "10.7579118", "valid": true }
@@ -2315,7 +4005,7 @@
     "id": "8846662678454",
     "name": "[Ngoại thành TPHCM] Xe chở khách giữa Nhà và Bệnh viện/Trung tâm Y tế | SACO TRAVEL",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8846662678454/%255BHCMC%2520Surburban%255D%2520Transfer%2520between%2520Home%2520and%2520Hospital%252FMedical%2520Center%2520%257C%2520SACO%2520TRAVEL-628f9294-9e1e-48bc-9279-d12317a41246.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.646508", "lat": "10.785512", "valid": true }
@@ -2346,7 +4036,30 @@
     "id": "7254302955440",
     "name": "[GIAO TẬN NHÀ] Bia thủ công East West Brewing Co. - Bia Chai ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7254302955440/%255BHOME%2520DELIVERY%255D%2520Local%2520Craft%2520Beer%2520at%2520East%2520West%2520Brewing%2520Co.%2520-%2520Bottled%2520Beer-412d4b04-fdf9-4af7-9a0b-8bf912efbf5c.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "4" },
+    "review": {
+      "score": 5,
+      "count": "4",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1649988666553",
+          "content": "Đặt lần 2, giá tốt, giao beer đúng giờ và freeship",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1641012004122",
+          "content": "Beer thơm, độ đắng vừa phải uống rất ngon. Lần sau sẽ đến quán ngồi uống cho có không khí",
+          "rating": 5
+        },
+        {
+          "userId": 2,
+          "date": "1633687098204",
+          "content": "Bên quán bia gọi xác nhận xong 20p ship liền, đóng gói đẹp, chắc chắn, có tặng kèm túi vải. Bia ngon và nhiều vị đa dạng nên mình mua combo 4 vị để thử. Nên mua nhé mọi ngườiii",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "181 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6961223", "lat": "10.7730563", "valid": true }
@@ -2379,7 +4092,7 @@
     "id": "3185415484647",
     "name": "Dịch vụ làm đẹp tại MEKO Beauty & Health (Phùng Khắc Khoan, quận 1)",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3185415484647/MEKO%2520Beauty%2520%2526%2520Health%2520Treatments%2520%2528Phung%2520Khac%2520Khoan%2520Street%252C%2520District%25201%2529-f9dc4f5c-4ae0-4c94-8b40-6e62799b6349.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "34 Phùng Khắc Khoan, Đa Kao, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6960302", "lat": "10.7865473", "valid": true }
@@ -2402,7 +4115,18 @@
     "id": "8061323624443",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 5 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8061323624443/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%25205%2520HCMC%2520-4d37e072-4e43-4132-87d2-c0cf957e3094.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1637602513766",
+          "content": "Nhân viên hỗ trợ nhiệt tình, dễ thương",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "309 Trần Phú, Phường 8, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.673397", "lat": "10.7564283", "valid": true }
@@ -2430,7 +4154,7 @@
     "id": "4778906247235",
     "name": "Voucher Giftpop sử dụng tại hệ thống The Alley",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4778906247235/The%2520Alley%2520Chain%2520Vouchers%2520by%2520Giftpop-edf43e21-24bd-49f0-8ece-205bca5629a7.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2450,7 +4174,18 @@
     "id": "9087135682624",
     "name": "[HẠN DÙNG DÀI] Đặt Taxi Mai Linh giữa Trung tâm TPHCM và Bệnh viện/Trung tâm y tế | MÃ PIN 6868",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9087135682624/%255BLONG%2520VALIDITY%255D%2520Mai%2520Linh%2520Taxi%2520Transfer%2520between%2520Ho%2520Chi%2520Minh%2520City%2520and%2520Hospital%252FMedical%2520Center%2520%257C%2520PIN%2520NUMBER%25206868-ba3a1b10-b0bc-4647-816c-cdf9c6679650.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 2.5, "count": "1" },
+    "review": {
+      "score": 2.5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1630733608513",
+          "content": "Tài xế không biết cách sử dụng voucher, phải gọi tổng đài nhiều lần để xử lý",
+          "rating": 2.5
+        }
+      ]
+    },
     "location": {
       "summary": "Tan Son Nhat Airport, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.66383", "lat": "10.815592", "valid": true }
@@ -2468,7 +4203,7 @@
     "id": "7288752142679",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng Bò-Lế-Rồ ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7288752142679/B%25C3%25B2-L%25E1%25BA%25BF-R%25E1%25BB%2593%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-dc53630e-aed2-40be-9dfe-2cf74bdb32f2.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2485,7 +4220,7 @@
     "id": "4910044092150",
     "name": "[HẠN DÙNG DÀI] Đặt Taxi Mai Linh giữa Thành phố Hồ Chí Minh và Sân bay Quốc tế Tân Sơn Nhất | MÃ PIN 6868",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4910044092150/%255BLONG%2520VALIDITY%255D%2520Mai%2520Linh%2520Taxi%2520Transfer%2520between%2520Ho%2520Chi%2520Minh%2520City%2520and%2520Tan%2520Son%2520Nhat%2520International%2520Airport%2520%257C%2520PIN%2520NUMBER%25206868-88d8d909-a5ac-4f27-9be9-6140a77d9e16.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Tan Son Nhat Airport, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.66383", "lat": "10.815592", "valid": true }
@@ -2503,7 +4238,7 @@
     "id": "7441127105190",
     "name": "Gói khám sức khoẻ chuyên sâu Phòng khám Vigor Health tại nhà",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7441127105190/Vigor%2520Health%2520Clinic%2520Health%2520Checkup%2520Service%2520%2528Home%2520Service%2529%2520-4ba3e719-dcc8-4848-ba24-6fea7c58b212.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "102a Trương Định, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6807735", "lat": "10.7839503", "valid": true }
@@ -2524,7 +4259,18 @@
     "id": "2002034807976",
     "name": "Mầm Gạo Spa Sài Gòn - Dịch vụ chăm sóc tóc",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2002034807976/Mam%2520Gao%2520Spa%2520Saigon%2520Hair%2520Treatments-d15f1eb8-6312-4847-86f0-5b4460158ae4.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4.5, "count": "1" },
+    "review": {
+      "score": 4.5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1574663063648",
+          "content": "Nhân viên cực dễ thương, nhẹ nhàng. Không gian yên tĩnh. Sau khi trải nghiệm m đỡ hẳn đau đầu, người thấy thật thoải mái. Sẽ quay lại và giới thiệu Mầm Gạo cho bạn bè mình biết!",
+          "rating": 4.5
+        }
+      ]
+    },
     "location": {
       "summary": "69 Hoa Lan, Phường 7, Phú Nhuận, Hồ Chí Minh, Vietnam",
       "location": {
@@ -2545,7 +4291,7 @@
     "id": "9101659303786",
     "name": "[Ngoại thành] Xe chở khách F1/F2 đi từ Nhà/Sân bay đến Nơi cách ly (Chỉ cho Công dân Việt Nam) | SACO TRAVEL",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9101659303786/%255BOutside%2520of%2520HCMC%255D%2520F1%252FF2%2520Passenger%2520Transfer%2520Services%2520from%2520Home%252FAirport%2520to%2520Quarantine%2520Location%2520%2528Vietnamese%2520Nationals%2520Only%2529%2520%257C%2520SACO%2520TRAVEL-ff35e847-12d1-45f7-b636-f52b3a5eb066.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.646508", "lat": "10.785512", "valid": true }
@@ -2584,7 +4330,7 @@
     "id": "5427532855214",
     "name": "Voucher Giftpop sử dụng tại hệ thống Cộng Cà Phê ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5427532855214/Cong%2520Cafe%2520Chain%2520Vouchers%2520by%2520Giftpop-33107ecf-24c4-420b-be05-8a5dcf8c4039.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2599,7 +4345,7 @@
     "id": "3103695712697",
     "name": "Voucher Giftpop sử dụng tại Hoa Yêu Thương ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3103695712697/Hoa%2520Yeu%2520Thuong%2520Florist%2520Vouchers%2520by%2520Giftpop%2520-736873f1-c790-4570-a125-66e68f3bded9.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "230b Võ Thị Sáu, Phường 6, Quận 3, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6860917", "lat": "10.782099", "valid": true }
@@ -2616,7 +4362,7 @@
     "id": "3054544483079",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Sorae ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3054544483079/%2520Sorae%2520Restaurant%2520Vouchers%2520by%2520Giftpop-8986e661-5584-4ca9-9d5d-a672ccc6caae.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2633,7 +4379,7 @@
     "id": "6610611603162",
     "name": "Dịch vụ làm đẹp tại MEKO Beauty & Health (Tăng Bạt Hổ, quận 5)",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6610611603162/MEKO%2520Beauty%2520%2526%2520Health%2520Treatments%2520%2528Tang%2520Bat%2520Ho%2520Street%252C%2520District%25205%2529-ee267000-454a-4bb3-8ebe-a293b4731ade.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "7B Tăng Bạt Hổ, Phường 12, Quận 5, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6621628", "lat": "10.7577366", "valid": true }
@@ -2656,7 +4402,18 @@
     "id": "5175868470058",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 12 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5175868470058/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%252012%2520HCMC%2520-e8e3fa34-ccd7-4ce5-980f-dd97ca77b5b9.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1642342920552",
+          "content": "tôi không có hình ảnh nhưng tôi muốn nói là nhân viên ở đây rất nhiệt tình và chu đáo, ân cần từng chút một, tôi không thể nói hết nhưng nhân viên tại đây khiến tôi rất hài lòng.",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "7 Phan Văn Hớn, Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6246889", "lat": "10.8271736", "valid": true }
@@ -2684,7 +4441,7 @@
     "id": "6476864482434",
     "name": "Xét nghiệm COVID-19 tại Diag Center Nguyễn Kiệm, quận Gò Vấp ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6476864482434/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Nguyen%2520Kiem%252C%2520Go%2520Vap%2520District%2520-3b9fd5bc-0183-4c33-9303-180e8262e9f5.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "793 Nguyễn Kiệm, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6786623", "lat": "10.8186248", "valid": true }
@@ -2712,7 +4469,7 @@
     "id": "8923461895119",
     "name": "[GIAO TẬN NHÀ] Đà Lạt Cider thủ công East West Brewing Co. - Cider lon",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8923461895119/%255BHOME%2520DELIVERY%255D%2520Dalat%2520Cider%2520at%2520East%2520West%2520Brewing%2520Co.%2520-%2520Canned%2520Cider-1501de42-fb49-4a34-a0ca-19455fc8f98e.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "181 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6961223", "lat": "10.7730563", "valid": true }
@@ -2734,7 +4491,7 @@
     "id": "8933034972948",
     "name": "Voucher Giftpop sử dụng tại nhà hàng K-PUB",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8933034972948/K-PUB%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-8f616956-1647-4c81-ae7d-a5ad036178b1.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2758,7 +4515,18 @@
     "id": "3300756591242",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Hutong ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3300756591242/Hutong%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-fe65937d-9732-42c3-bb5b-b9b7e50741d8.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1641186564445",
+          "content": "Đồ ăn ngon và tươi, phục vụ rất chu đáo. Đổi phiếu dễ dàng. Mình mua voucher còn dùng thêm được mã giảm giá nên tính ra rất là hời",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2782,7 +4550,7 @@
     "id": "3630857667144",
     "name": "Dịch vụ làm đẹp tại MEKO Beauty & Health (Lam Sơn, quận Tân Bình)",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3630857667144/MEKO%2520Beauty%2520%2526%2520Health%2520Treatments%2520%2528Lam%2520Son%2520Street%252C%2520Tan%2520Binh%2520District%2529-790f3e20-c960-420e-bf58-43e213d01ed4.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "91 Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": {
@@ -2809,7 +4577,7 @@
     "id": "2000179727236",
     "name": "Tháp bia tại vườn bia 2F Sài Gòn",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000179727236/Beer%2520Tower%2520at%25202F%2520Beer%2520Garden%2520Saigon-e8f59821-d039-4f36-ba7d-1f2c4825988d.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "2F Nguyễn Thành Ý, Đa Kao, Quận 1, Hồ Chí Minh, Vietnam",
       "location": {
@@ -2831,7 +4599,18 @@
     "id": "9438124963689",
     "name": "Voucher Giftpop sử dụng tại hệ thống Paris Baguette Việt Nam",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9438124963689/Paris%2520Baguette%2520Vietnam%2520Chain%2520Vouchers%2520by%2520Giftpop-55e1a1a8-e28a-455b-aabd-3ecacf363e64.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1647414895838",
+          "content": "Quy đổi rất dễ dàng, áp dụng được cho mọi sản phẩm của quán!",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2853,7 +4632,7 @@
     "id": "4094542016316",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Chảo Cá ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4094542016316/Chao%2520Ca%2520Restaurant%2520Vouchers%2520by%2520Giftpop-3dd97418-f885-481a-a174-f4414d9b7e2c.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2871,7 +4650,7 @@
     "id": "9912539367031",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Sumo Yakiniku ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9912539367031/Sumo%2520Yakiniku%2520Restaurant%2520Vouchers%2520by%2520Giftpop-a23c51af-2bf5-4119-82d6-674fd01bf781.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -2895,7 +4674,7 @@
     "id": "9580814917801",
     "name": "Điều trị chăm sóc sức khỏe liên quan đến Covid-19 tại Diag Center - Tất cả chi nhánh",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9580814917801/Covid-19-Related%2520Healthcare%2520Treatments%2520at%2520Diag%2520Center%2520-%2520All%2520Branches%2520-910c098c-e7ff-4a40-ae80-aa4e14cdbcc5.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "231 Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6695957", "lat": "10.7997476", "valid": true }
@@ -2917,7 +4696,18 @@
     "id": "7253861376942",
     "name": "[Nội thành] Xe chở khách đi từ Sân bay Tân Sơn Nhất đến Nơi cách ly (Cho mọi quốc tịch) | SACO TRAVEL",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7253861376942/%255BInner%2520City%255D%2520Transfer%2520Services%2520from%2520Tan%2520Son%2520Nhat%2520International%2520Airport%2520to%2520Quarantine%2520Location%2520%2528All%2520Nationalities%2529%2520%257C%2520SACO%2520TRAVEL-2d9e60fd-f4c7-4114-a637-bd5a0f6a3d39.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "1" },
+    "review": {
+      "score": 5,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1634449064795",
+          "content": "Mọi người hỗ trợ nhiệt tình và dịch vụ rất tốt",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "54 Đặng Minh Trứ, Phường 10, Tân Bình, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.647353", "lat": "10.7856516", "valid": true }
@@ -2954,7 +4744,24 @@
     "id": "5397880304961",
     "name": "[GIAO TẬN NHÀ] Bia thủ công East West Brewing Co. - Bia lon ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5397880304961/%255BHOME%2520DELIVERY%255D%2520Local%2520Craft%2520Beer%2520at%2520East%2520West%2520Brewing%2520Co.-%2520Canned%2520Beer-6a378a5a-dff4-4bfb-afb9-792a61332d3b.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 5, "count": "2" },
+    "review": {
+      "score": 5,
+      "count": "2",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1638327319058",
+          "content": "Bia ngon, nhân viên nhiệt tình, dễ thương, thủ tục quy đổi phiếu dễ dàng! Thanks!",
+          "rating": 5
+        },
+        {
+          "userId": 1,
+          "date": "1634901066869",
+          "content": "Good beers with cool packages.",
+          "rating": 5
+        }
+      ]
+    },
     "location": {
       "summary": "13 Công Trường Lam Sơn, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
       "location": {
@@ -2990,7 +4797,7 @@
     "id": "3101004185254",
     "name": "Vietnamese Cuisine Cooking Class",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3101004185254/Vietnamese%2520Cuisine%2520Cooking%2520Class-7e483841-b045-4091-9405-358a962da639.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Saigon, Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3007,7 +4814,7 @@
     "id": "9658689782999",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng Botanica ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9658689782999/Botanica%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-7af268eb-22aa-49f5-9b61-79275c2a0701.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3024,7 +4831,7 @@
     "id": "4952532452934",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Crystal Jade Kitchen",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4952532452934/Crystal%2520Jade%2520Kitchen%2520Vouchers%2520by%2520Giftpop-4fa37085-8612-4447-9821-bbd22a24cbc5.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3048,7 +4855,18 @@
     "id": "8611792420673",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 6 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8611792420673/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%25206%2520HCMC%2520-226f74ec-7d6e-4cd0-935e-8bd85aa5a307.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 4, "count": "1" },
+    "review": {
+      "score": 4,
+      "count": "1",
+      "reviews": [
+        {
+          "userId": 0,
+          "date": "1640571464083",
+          "content": "Việc proceed voucher của Traveloka rất lâu so với tự đến và mua dịch vụ trực tiếp của Diag. Traveloka nên hướng dẫn khách cũng như partner cụ thể hơn.",
+          "rating": 4
+        }
+      ]
+    },
     "location": {
       "summary": "354 Đ, Nguyễn Văn Luông, Phường 12, Quận 6, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6354841", "lat": "10.7503665", "valid": true }
@@ -3076,7 +4894,7 @@
     "id": "2000917250664",
     "name": "Tour xích lô Sài Gòn - 1 giờ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/2000917250664/Saigon%2520Cyclo%2520Tour%2520-%25201-Hour%2520Tour-f18137f3-4f69-48ca-8164-8b1a8f4da31f.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3092,7 +4910,7 @@
     "id": "7436368673652",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng Gà Nướng Ò Ó O",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7436368673652/Ga%2520Nuong%2520%25C3%2592%2520%25C3%2593%2520O%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-a59b3098-6e8e-4b86-bc00-fd224a7c786e.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3109,7 +4927,7 @@
     "id": "5085207442632",
     "name": "Xét nghiệm COVID-19 tại Diag Center Quận 11 TPHCM",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5085207442632/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520District%252011%2520HCMC%2520-73e0e37d-79c6-444c-84ad-7cf3106b4cde.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "99 Bình Thới, Phường 11, Quận 11, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6492903", "lat": "10.7670695", "valid": true }
@@ -3137,7 +4955,7 @@
     "id": "6449153798882",
     "name": "Saigon City Chinatown Tour by Cyclo",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6449153798882/Saigon%2520City%2520Chinatown%2520Tour%2520by%2520Cyclo-ca849699-0481-444d-81ec-c67656213f51.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Saigon, Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3155,7 +4973,7 @@
     "id": "3894063255588",
     "name": "Chụp ảnh với nhiếp ảnh gia chuyên nghiệp tại Ho Chi Minh City",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3894063255588/Professional%2520Photo%2520Shoot%2520in%2520Ho%2520Chi%2520Minh%2520City-b0d6f1b7-6fdd-472b-ae51-a7f34b48bc83.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3174,7 +4992,7 @@
     "id": "7812928776556",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng Bornga ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7812928776556/Bornga%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-8bf2670b-45c8-4f95-9b90-e133c3d41d54.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3191,7 +5009,7 @@
     "id": "5605749560085",
     "name": "Voucher Giftpop sử dụng tại chuỗi cửa hàng Beard Papa's",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5605749560085/Beard%2520Papa%2527s%2520Chain%2520Vouchers%2520by%2520Giftpop-6e32fd77-1ca3-4014-b78e-3b680b08a6e6.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3207,7 +5025,7 @@
     "id": "3100078534142",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng Sargon Bistro ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3100078534142/%2520Sargon%2520Bistro%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-ac146b66-8e9b-4132-8c10-58e512e7c806.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3224,7 +5042,7 @@
     "id": "9284183685476",
     "name": "Gói tầm soát viêm gan Phòng khám Vigor Health tại nhà",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9284183685476/Vigor%2520Health%2520Clinic%2520Hepatitis%2520Screening%2520Package%2520%2528Home%2520Service%2529%2520-334a3956-a9c5-41d7-935d-189d1097dca4.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "102a Trương Định, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6807735", "lat": "10.7839503", "valid": true }
@@ -3245,7 +5063,7 @@
     "id": "5971143164553",
     "name": "Voucher Giftpop sử dụng tại hệ thống nhà hàng Dì Mai ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5971143164553/Di%2520Mai%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-922a78e2-349b-42c3-96ae-7116ab685c08.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3265,7 +5083,7 @@
     "id": "7179363486183",
     "name": "Xét nghiệm COVID-19 tại Phòng khám Vigor Health ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7179363486183/Covid-19%2520Test%2520at%2520Vigor%2520Health%2520Clinic%2520-13886a81-1828-41de-a5ea-3294b3feefd7.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "102a Trương Định, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6807735", "lat": "10.7839503", "valid": true }
@@ -3292,7 +5110,7 @@
     "id": "9317714690663",
     "name": "Voucher Giftpop sử dụng tại nhà sách Cá Chép ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9317714690663/Ca%2520Chep%2520Bookstore%2520Chain%2520Vouchers%2520by%2520Giftpop-167cb265-84f2-4429-a4e1-6f457a44342e.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3309,7 +5127,7 @@
     "id": "7638503747859",
     "name": "Voucher Giftpop sử dụng tại siêu thị K-Market ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7638503747859/K-Market%2520Vouchers%2520by%2520Giftpop-03856c0a-bb0f-40b8-b51d-25af41d5aa91.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3325,7 +5143,7 @@
     "id": "5960968266636",
     "name": "Xét nghiệm COVID-19 tại Diag Center Củ Chi TPHCM ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5960968266636/COVID-19%2520Test%2520at%2520Diag%2520Center%2520in%2520Cu%2520Chi%2520HCMC%2520-c68e8202-a0ee-49ee-b764-eb7faf2765de.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "420 Cao Thắng, Phường 12, Quận 10, Thành phố Hồ Chí Minh, Vietnam",
       "location": { "lon": "106.6727609", "lat": "10.7750726", "valid": true }
@@ -3353,7 +5171,7 @@
     "id": "3507745785112",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Chili’s American Grill & Bar ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3507745785112/Chili%25E2%2580%2599s%2520American%2520Grill%2520%2526%2520Bar%2520Vouchers%2520by%2520Giftpop-4c5c1bcc-a17b-410f-8b7b-509555eed39d.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3377,7 +5195,7 @@
     "id": "4425789444632",
     "name": "Voucher Giftpop sử dụng tại hệ thống Đen Đá Coffee ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4425789444632/Den%2520Da%2520Coffee%2520Chain%2520Vouchers%2520by%2520Giftpop-9cba55ad-1d05-4801-ae1b-9b8ccda9e001.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3392,7 +5210,7 @@
     "id": "8306936714502",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Phố Ngon 37",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8306936714502/Pho%2520Ngon%252037%2520%25E2%2580%2593%252037%2520Street%2520Restaurant%2520Chain%2520Vouchers%2520by%2520Giftpop-c2b9cba2-7772-4a5c-a70d-5ec99e47ab6a.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3416,7 +5234,7 @@
     "id": "6441996430193",
     "name": "Dịch vụ y tế Covid-19 tại Phòng khám SIHG ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6441996430193/Covid-19%2520Medical%2520Services%2520at%2520SIHG%2520Clinic-5db5fe2f-3d73-4b80-bd72-39986cc07dcd.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.713313", "lat": "10.722559", "valid": true }
@@ -3442,7 +5260,7 @@
     "id": "7596265518986",
     "name": "Gói xét nghiệm tầm soát ung thư Phòng khám Vigor Health tại nhà",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7596265518986/Vigor%2520Health%2520Clinic%2520Cancer%2520Screening%2520Package%2520%2528Home%2520Service%2529-b9a858ed-640b-4c22-a4b1-b93d618f3e34.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "102a Trương Định, Phường 9, Quận 3, Thành phố Hồ Chí Minh, Việt Nam",
       "location": { "lon": "106.6807735", "lat": "10.7839503", "valid": true }
@@ -3463,7 +5281,7 @@
     "id": "6447762030035",
     "name": "Saigon City Tour by Motorbike",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6447762030035/Saigon%2520City%2520Tour%2520by%2520Motorbike-7d9dfc20-6c79-4f92-8092-9fc0bbdf3eda.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Saigon, Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3480,7 +5298,7 @@
     "id": "8421075029454",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Shogun – Quán Nướng Đường Phố Nhật Bản",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8421075029454/Shogun%2520Japanese%2520Street%2520BBQ%2520Restaurant%2520Vouchers%2520by%2520Giftpop-3560fa2c-8473-4054-83be-eb889a02d584.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3504,7 +5322,7 @@
     "id": "9663429090024",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Daruma ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9663429090024/Daruma%2520Restaurant%2520Vouchers%2520by%2520Giftpop-1ac215e6-a59a-4593-af1b-de300ad56c88.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3528,7 +5346,7 @@
     "id": "7252705834724",
     "name": "Saigon City Night Tour by Vintage Vespa",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/7252705834724/Saigon%2520City%2520Night%2520Tour%2520by%2520Vintage%2520Vespa-7c6fc14f-3cc5-463c-969f-0c4c62c85343.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Saigon, Ho Chi Minh, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3545,7 +5363,7 @@
     "id": "5329024141040",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Cowboy Jack's 500 Pizzeria",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/5329024141040/Cowboy%2520Jack%2527s%2520500%2520Pizzeria%2520Restaurant%2520Vouchers%2520by%2520Giftpop-3e6753f7-e3f4-43ec-9924-6e45e5de0bd8.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3569,7 +5387,7 @@
     "id": "9785093233057",
     "name": "Voucher Giftpop sử dụng tại chuỗi nhà hàng KTOP Korean Hot Pot ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/9785093233057/KTOP%2520Korean%2520Hot%2520Pot%2520Chain%2520Restaurant%2520Vouchers%2520by%2520Giftpop-1808e7eb-cd61-42ca-b026-57133feb34fa.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3593,7 +5411,7 @@
     "id": "4171357485124",
     "name": "Voucher Giftpop sử dụng tại nhà hàng Cowboy Jack’s – Authentic American Dining",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/4171357485124/Cowboy%2520Jack%25E2%2580%2599s%2520%25E2%2580%2593%2520Authentic%2520American%2520Dining%2520Restaurant%2520Vouchers%2520by%2520Giftpop-abef4532-11c8-4857-81be-79801f1bbe07.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3617,7 +5435,7 @@
     "id": "6428291693568",
     "name": "Voucher Giftpop sử dụng tại chuỗi cửa hàng Angel-in-us Coffee",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/6428291693568/Angel-in-us%2520Coffee%2520E-Vouchers%2520by%2520Giftpop-d3e3ce00-eb1c-409e-8426-2e09204747c5.png?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3646,7 +5464,7 @@
     "id": "3072055011764",
     "name": "Voucher Giftpop sử dụng tại ICOOK - Restaurant at Home ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/3072055011764/ICOOK%2520-%2520Restaurant%2520at%2520Home%2520Vouchers%2520by%2520Giftpop-5f6093ef-2e1d-442b-8e64-7a613c2fd1ff.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }
@@ -3670,7 +5488,7 @@
     "id": "8698840208338",
     "name": "Voucher Giftpop sử dụng tại Beerclub Vuvuzela ",
     "thumbnail": "https://ik.imagekit.io/tvlk/xpe-asset/AyJ40ZAo1DOyPyKLZ9c3RGQHTP2oT4ZXW+QmPVVkFQiXFSv42UaHGzSmaSzQ8DO5QIbWPZuF+VkYVRk6gh-Vg4ECbfuQRQ4pHjWJ5Rmbtkk=/8698840208338/Vuvuzela%2520Beerclub%2520Vouchers%2520by%2520Giftpop-bb73d4cf-8a1d-4555-92dd-488d199b5310.jpeg?tr=q-60,c-at_max,w-540,h-960&_src=imagekit",
-    "review": { "score": 0, "count": "0" },
+    "review": { "score": 0, "count": "0", "reviews": [] },
     "location": {
       "summary": "Ho Chi Minh City, Vietnam",
       "location": { "lon": "106.6296638", "lat": "10.8230989", "valid": true }

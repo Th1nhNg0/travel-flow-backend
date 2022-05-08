@@ -8,7 +8,7 @@ dotenv.config();
 import userRouter, { authenticateToken } from "./routes/user";
 import locationRouter from "./routes/location";
 import planRouter from "./routes/plan";
-
+import planLocationRouter from "./routes/planLocation";
 const app: Express = express();
 const port = process.env.PORT || 3000;
 
@@ -28,7 +28,7 @@ app.use(
 app.use("/location", locationRouter);
 app.use("/user", userRouter);
 app.use("/plan", authenticateToken, planRouter);
-
+app.use("/planlocation", authenticateToken, planLocationRouter);
 app.listen(port, () => {
   console.log(`⚡️[server]: Server is running at https://localhost:${port}`);
 });
