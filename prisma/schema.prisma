@@ -1,0 +1,81 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                   Int                    @id @default(autoincrement())
+  email                String                 @unique
+  name                 String?
+  password             String
+  reputationPoint      Int                    @default(value: 0)
+  Plan                 Plan[]
+  Review               Review[]
+  UserFavoriteLocation UserFavoriteLocation[]
+}
+
+model UserFavoriteLocation {
+  id         Int      @id @default(autoincrement())
+  user       User     @relation(fields: [userId], references: [id])
+  userId     Int
+  location   Location @relation(fields: [locationId], references: [id])
+  locationId Int
+  createdAt  DateTime @default(now())
+}
+
+model Plan {
+  id           Int            @id @default(autoincrement())
+  name         String
+  user         User           @relation(fields: [userId], references: [id])
+  userId       Int
+  PlanLocation PlanLocation[]
+}
+
+model PlanLocation {
+  id             Int      @id @default(autoincrement())
+  isVisited      Boolean  @default(false)
+  date           DateTime
+  numberOfPeople Int      @default(1)
+  plan           Plan     @relation(fields: [planId], references: [id])
+  planId         Int
+  location       Location @relation(fields: [locationId], references: [id])
+  locationId     Int
+}
+
+model Location {
+  id                   Int                    @id @default(autoincrement())
+  name                 String
+  thumbnail            String
+  address              String
+  latitude             Float
+  longitude            Float
+  LocationImages       LocationImage[]
+  PlanLocation         PlanLocation[]
+  Review               Review[]
+  UserFavoriteLocation UserFavoriteLocation[]
+}
+
+model Review {
+  id         Int      @id @default(autoincrement())
+  rating     Int
+  content    String?
+  createdAt  DateTime @default(now())
+  location   Location @relation(fields: [locationId], references: [id])
+  locationId Int
+  user       User     @relation(fields: [userId], references: [id])
+  userId     Int
+}
+
+model LocationImage {
+  id         Int      @id @default(autoincrement())
+  image_url  String
+  location   Location @relation(fields: [locationId], references: [id])
+  locationId Int
+}

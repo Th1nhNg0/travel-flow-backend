@@ -1,0 +1,100 @@
+POST http://localhost:3003/user/signup
+Content-Type: application/json
+
+{
+    "email":"thinhngow@gmail.com",
+    "password":"123"
+}
+
+###
+POST http://localhost:3003/user/signin
+Content-Type: application/json
+
+{
+    "email":"thinhngow@gmail.com",
+    "password":"123"
+}
+
+###
+
+GET http://localhost:3003/user/me
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwibmFtZSI6IlRo4buLbmgiLCJpYXQiOjE2NTIwMjQwNjgsImV4cCI6MTY1MjYyODg2OH0.MO18rVLyRaLu0-2qNo2QTT3d0TL56_0INtJF3dYyQgY
+
+
+
+###
+GET http://localhost:3003/location?page=1&limit=3
+
+###
+GET http://localhost:3003/location/1
+
+###
+# filter=hour,week,month
+GET http://localhost:3003/location/1/graph?filter=hour
+
+
+### 
+GET http://localhost:3003/location/1/reviews?page=1&limit=10
+###
+
+POST http://localhost:3003/location/1/reviews
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+Content-Type: application/json
+
+{
+    "rating":5,
+    "content":"LMAO LMAO LMAO"
+}
+### 
+GET http://localhost:3003/plan
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+
+###
+GET http://localhost:3003/plan/1
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+
+
+### 
+POST http://localhost:3003/plan
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+Content-Type: application/json
+
+{
+    "name":"Hà Nội 30/4-1/5"
+}
+
+###
+
+DELETE http://localhost:3003/plan/2
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+
+###
+
+POST http://localhost:3003/plan/1/location
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+Content-Type: application/json
+
+{
+    "locationId":1,
+    "date": "2022-05-08T15:40:56.247Z",
+    "numberOfPeople":100
+}
+
+###
+
+DELETE http://localhost:3003/plan/1/location/2
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+
+###
+
+POST http://localhost:3003/user/favorite
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+Content-Type: application/json
+
+{
+    "locationId": 1
+}
+
+###
+GET http://localhost:3003/user/favorite?page=1&limit=10
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
