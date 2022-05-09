@@ -1,43 +1,42 @@
-POST http://localhost:3003/user/signup
+POST https://travel-flow-hackathon-2022.herokuapp.com/user/signup
 Content-Type: application/json
 
 {
     "email":"thinhngow@gmail.com",
+    "name":"lmao",
     "password":"123"
 }
 
 ###
-POST http://localhost:3003/user/signin
+POST https://travel-flow-hackathon-2022.herokuapp.com/user/signin
 Content-Type: application/json
 
 {
-    "email":"thinhngow@gmail.com",
+    "email":"ngophuthinh2001@gmail.com",
     "password":"123"
 }
 
 ###
 
-GET http://localhost:3003/user/me
-Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwibmFtZSI6bnVsbCwicmVwdXRhdGlvblBvaW50IjowLCJpYXQiOjE2NTIwNDExMzAsImV4cCI6MTY1MjY0NTkzMH0.uF-LPXr1NE9qKLX4lOST5rgQF2nO7yCcY1lYZEK5N-0
-
-
+GET https://travel-flow-hackathon-2022.herokuapp.com/user/me
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzIsImVtYWlsIjoibmdvcGh1dGhpbmgyMDAxQGdtYWlsLmNvbSIsIm5hbWUiOm51bGwsInJlcHV0YXRpb25Qb2ludCI6MCwiaWF0IjoxNjUyMDYyODQ5LCJleHAiOjE2NTI2Njc2NDl9.6DHogmGdpJcgUjNU10gsQh-Hf8hbdWDhb-eR1zaOZEs
 
 ###
-GET http://localhost:3003/location?page=1&limit=3
+GET https://travel-flow-hackathon-2022.herokuapp.com/location?page=1&limit=3
 
 ###
-GET http://localhost:3003/location/1
+GET https://travel-flow-hackathon-2022.herokuapp.com/location/1
 
 ###
 # filter=hour,week,month
-GET http://localhost:3003/location/1/graph?filter=hour
+GET https://travel-flow-hackathon-2022.herokuapp.com/location/1/graph?filter=hour
 
 
 ### 
-GET http://localhost:3003/location/1/reviews?page=1&limit=10
+GET https://travel-flow-hackathon-2022.herokuapp.com/location/1/reviews?page=1&limit=10
 ###
 
-POST http://localhost:3003/location/1/reviews
+POST https://travel-flow-hackathon-2022.herokuapp.com/location/1/reviews
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 Content-Type: application/json
 
@@ -46,16 +45,16 @@ Content-Type: application/json
     "content":"LMAO LMAO LMAO"
 }
 ### 
-GET http://localhost:3003/plan
+GET https://travel-flow-hackathon-2022.herokuapp.com/plan
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###
-GET http://localhost:3003/plan/1
+GET https://travel-flow-hackathon-2022.herokuapp.com/plan/1
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 
 ### 
-POST http://localhost:3003/plan
+POST https://travel-flow-hackathon-2022.herokuapp.com/plan
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 Content-Type: application/json
 
@@ -65,12 +64,12 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3003/plan/2
+DELETE https://travel-flow-hackathon-2022.herokuapp.com/plan/2
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###
 
-POST http://localhost:3003/plan/1/location
+POST https://travel-flow-hackathon-2022.herokuapp.com/plan/1/location
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 Content-Type: application/json
 
@@ -82,12 +81,12 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3003/plan/1/location/2
+DELETE https://travel-flow-hackathon-2022.herokuapp.com/plan/1/location/2
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###
 
-POST http://localhost:3003/user/favorite
+POST https://travel-flow-hackathon-2022.herokuapp.com/user/favorite
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 Content-Type: application/json
 
@@ -96,7 +95,7 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:3003/user/favorite?page=1&limit=10
+GET https://travel-flow-hackathon-2022.herokuapp.com/user/favorite?page=1&limit=10
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###
