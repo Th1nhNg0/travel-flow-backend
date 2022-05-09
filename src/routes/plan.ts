@@ -96,6 +96,33 @@ router.delete("/:id", async (req: any, res) => {
   }
 });
 
+router.put("/:id", async (req: any, res) => {
+  const id = parseInt(req.params.id);
+  const userId = req.user.id;
+  const { name } = req.body;
+  const plan = await prisma.plan.findFirst({
+    where: {
+      id,
+      userId,
+    },
+  });
+  if (!plan) {
+    res.status(404).json({
+      message: "Plan not found",
+    });
+  } else {
+    const new_plan = await prisma.plan.update({
+      where: {
+        id,
+      },
+      data: {
+        name,
+      },
+    });
+    res.json(new_plan);
+  }
+});
+
 router.post("/:id/location", async (req: any, res) => {
   const id = parseInt(req.params.id);
   const userId = req.user.id;

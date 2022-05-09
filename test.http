@@ -49,17 +49,27 @@ GET https://travel-flow-hackathon-2022.herokuapp.com/plan?page=1&limit=10
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###
-GET https://travel-flow-hackathon-2022.herokuapp.com/plan/1
+GET http://localhost:3003/plan/6
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 
 ### 
-POST https://travel-flow-hackathon-2022.herokuapp.com/plan
+POST http://localhost:3003/plan
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 Content-Type: application/json
 
 {
     "name":"Hà Nội 30/4-1/5"
+}
+
+
+### 
+PUT http://localhost:3003/plan/6
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+Content-Type: application/json
+
+{
+    "name":"Lmeo"
 }
 
 ###
