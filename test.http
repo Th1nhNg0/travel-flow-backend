@@ -100,5 +100,5 @@ GET http://localhost:3003/user/favorite?page=1&limit=10
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###
-GET http://localhost:3003/planlocation?page=1&limit=10
+GET https://travel-flow-hackathon-2022.herokuapp.com/planlocation?page=1&limit=10
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
