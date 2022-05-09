@@ -49,12 +49,12 @@ GET https://travel-flow-hackathon-2022.herokuapp.com/plan?page=1&limit=10
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###
-GET http://localhost:3003/plan/6
+GET https://travel-flow-hackathon-2022.herokuapp.com/plan/1
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 
 ### 
-POST http://localhost:3003/plan
+POST https://travel-flow-hackathon-2022.herokuapp.com/plan
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 Content-Type: application/json
 
@@ -64,7 +64,7 @@ Content-Type: application/json
 
 
 ### 
-PUT http://localhost:3003/plan/6
+PUT http://localhost:3003/plan/1
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 Content-Type: application/json
 
@@ -75,7 +75,7 @@ Content-Type: application/json
 ###
 
 DELETE https://travel-flow-hackathon-2022.herokuapp.com/plan/2
-Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+O eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1Authorization: LMAifmV3Bq-00o
 
 ###
 
@@ -89,6 +89,16 @@ Content-Type: application/json
     "numberOfPeople":100
 }
 
+
+###
+PUT http://localhost:3003/plan/1/location/4
+Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
+Content-Type: application/json
+
+{
+    "date": "2022-06-08T15:40:56.247Z",
+    "numberOfPeople":10
+}
 ###
 
 DELETE https://travel-flow-hackathon-2022.herokuapp.com/plan/1/location/2

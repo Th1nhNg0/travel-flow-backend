@@ -188,4 +188,43 @@ router.delete("/:id/location/:locationId", async (req: any, res) => {
   }
 });
 
+router.put("/:id/location/:locationId", async (req: any, res) => {
+  const id = parseInt(req.params.id);
+  const userId = req.user.id;
+  const locationId = parseInt(req.params.locationId);
+  const date = new Date(req.body.date);
+  const numberOfPeople = parseInt(req.body.numberOfPeople);
+  const plan = await prisma.plan.findFirst({
+    where: {
+      id,
+      userId,
+    },
+  });
+  const location = await prisma.location.findFirst({
+    where: {
+      id: locationId,
+    },
+  });
+  if (!location) {
+    res.status(404).json({
+      message: "Location not found",
+    });
+  } else if (!plan) {
+    res.status(404).json({
+      message: "Plan not found",
+    });
+  } else {
+    const new_planLocation = await prisma.planLocation.update({
+      where: {
+        id: locationId,
+      },
+      data: {
+        numberOfPeople,
+        date: date,
+      },
+    });
+    res.json(new_planLocation);
+  }
+});
+
 export default router;
