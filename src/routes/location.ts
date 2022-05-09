@@ -40,6 +40,13 @@ router.get("/", async (req, res) => {
   const locations: any = await prisma.location.findMany({
     take: limit,
     skip: offset,
+    select: {
+      _count: {
+        select: {
+          Review: true,
+        },
+      },
+    },
   });
 
   for (const location of locations) {
