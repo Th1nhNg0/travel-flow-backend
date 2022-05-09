@@ -22,7 +22,7 @@ GET https://travel-flow-hackathon-2022.herokuapp.com/user/me
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzIsImVtYWlsIjoibmdvcGh1dGhpbmgyMDAxQGdtYWlsLmNvbSIsIm5hbWUiOm51bGwsInJlcHV0YXRpb25Qb2ludCI6MCwiaWF0IjoxNjUyMDYyODQ5LCJleHAiOjE2NTI2Njc2NDl9.6DHogmGdpJcgUjNU10gsQh-Hf8hbdWDhb-eR1zaOZEs
 
 ###
-GET https://travel-flow-hackathon-2022.herokuapp.com/location?page=1&limit=3
+GET http://localhost:3003/location?page=1&limit=3&search=Sông
 
 ###
 GET https://travel-flow-hackathon-2022.herokuapp.com/location/1

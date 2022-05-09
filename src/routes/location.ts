@@ -37,9 +37,16 @@ router.get("/", async (req, res) => {
   limit = Math.min(limit, 20);
   const offset = (page - 1) * limit;
 
+  const search = req.query.search as string;
+
   const locations: any = await prisma.location.findMany({
     take: limit,
     skip: offset,
+    where: {
+      name: {
+        contains: search.toLowerCase(),
+      },
+    },
     include: {
       _count: {
         select: {
@@ -63,7 +70,13 @@ router.get("/", async (req, res) => {
     review = review._avg.rating || 0;
     location.review = review;
   }
-  const total_locations = await prisma.location.count();
+  const total_locations = await prisma.location.count({
+    where: {
+      name: {
+        contains: search.toLowerCase(),
+      },
+    },
+  });
   const current_page = page;
   const total_page = Math.ceil(total_locations / limit);
   res.json({
