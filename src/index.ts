@@ -12,7 +12,7 @@ import planLocationRouter from "./routes/planLocation";
 const app: Express = express();
 const port = process.env.PORT || 3000;
 
-app.use(cors({ origin: "*" }));
+app.use(cors());
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));

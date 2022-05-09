@@ -37,14 +37,14 @@ router.get("/", async (req, res) => {
   limit = Math.min(limit, 20);
   const offset = (page - 1) * limit;
 
-  const search = req.query.search as string;
+  const search = (req.query.search as string) || "";
 
   const locations: any = await prisma.location.findMany({
     take: limit,
     skip: offset,
     where: {
       name: {
-        contains: search.toLowerCase(),
+        contains: search?.toLowerCase(),
       },
     },
     include: {
@@ -73,7 +73,7 @@ router.get("/", async (req, res) => {
   const total_locations = await prisma.location.count({
     where: {
       name: {
-        contains: search.toLowerCase(),
+        contains: search?.toLowerCase(),
       },
     },
   });
