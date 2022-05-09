@@ -22,7 +22,7 @@ GET https://travel-flow-hackathon-2022.herokuapp.com/user/me
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NzIsImVtYWlsIjoibmdvcGh1dGhpbmgyMDAxQGdtYWlsLmNvbSIsIm5hbWUiOm51bGwsInJlcHV0YXRpb25Qb2ludCI6MCwiaWF0IjoxNjUyMDYyODQ5LCJleHAiOjE2NTI2Njc2NDl9.6DHogmGdpJcgUjNU10gsQh-Hf8hbdWDhb-eR1zaOZEs
 
 ###
-GET http://localhost:3003/location?page=1&limit=3
+GET https://travel-flow-hackathon-2022.herokuapp.com/location?page=1&limit=3
 
 ###
 GET https://travel-flow-hackathon-2022.herokuapp.com/location/1
@@ -45,7 +45,7 @@ Content-Type: application/json
     "content":"LMAO LMAO LMAO"
 }
 ### 
-GET https://travel-flow-hackathon-2022.herokuapp.com/plan
+GET https://travel-flow-hackathon-2022.herokuapp.com/plan?page=1&limit=10
 Authorization: LMAO eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJ0aGluaG5nb3dAZ21haWwuY29tIiwiaWF0IjoxNjUyMDE5OTgyLCJleHAiOjE2NTI2MjQ3ODJ9.vC7qUNCu-dskpn4FLYvfbUSUOAINnlc1ifmV3Bq-00o
 
 ###

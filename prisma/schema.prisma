@@ -33,6 +33,7 @@ model UserFavoriteLocation {
 model Plan {
   id           Int            @id @default(autoincrement())
   name         String
+  thumbnail    String?
   user         User           @relation(fields: [userId], references: [id])
   userId       Int
   PlanLocation PlanLocation[]

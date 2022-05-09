@@ -1,6 +1,6 @@
 import express from "express";
 import prisma from "../prisma";
-
+import axios from "axios";
 const router = express.Router();
 
 router.get("/", async (req: any, res) => {
@@ -58,10 +58,14 @@ router.get("/:id", async (req: any, res) => {
 router.post("/", async (req: any, res) => {
   const userId = req.user.id;
   const { name } = req.body;
+  const thumbnail: string = await axios
+    .get("https://source.unsplash.com/random/1600x900/?nature,travel")
+    .then((response: any) => response.request.res.responseUrl);
   const plan = await prisma.plan.create({
     data: {
       name,
       userId,
+      thumbnail,
     },
   });
   res.json(plan);
