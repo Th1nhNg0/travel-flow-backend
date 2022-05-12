@@ -184,8 +184,7 @@ router.get("/:id/graph", async (req, res) => {
   }
   let t1 = await getPeopleCount(locationId);
   let t2 = await getPeopleCount(locationId, 50);
-  let rng = seedrandom(locationId.toString());
-  console.log(y1.length);
+  let rng = seedrandom(locationId.toString() + filter);
   for (let i = 0; i < y1.length; i++) {
     let temp1 = Math.floor(rng() * t1);
     y1[i] += temp1;
