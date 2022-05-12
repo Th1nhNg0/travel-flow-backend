@@ -8,7 +8,8 @@ const router = express.Router();
 
 async function getPeopleCount(
   locationId: number,
-  minReputationPoint: number = 0
+  minReputationPoint: number = 0,
+  maxNumber = 1000
 ) {
   const people = await prisma.planLocation.aggregate({
     where: {
@@ -30,7 +31,7 @@ async function getPeopleCount(
     },
   });
   let rng = seedrandom(locationId.toString() + minReputationPoint.toString());
-  let numberOfPeople = Math.floor(rng() * 1000);
+  let numberOfPeople = Math.floor(rng() * maxNumber);
   return numberOfPeople + (people._sum.numberOfPeople || 0);
 }
 
@@ -61,7 +62,11 @@ router.get("/", async (req, res) => {
 
   for (const location of locations) {
     location.intendedPeople = await getPeopleCount(location.id);
-    location.highIntendedPeople = await getPeopleCount(location.id, 50);
+    location.highIntendedPeople = await getPeopleCount(
+      location.id,
+      50,
+      location.intendedPeople
+    );
     let review: any = await prisma.review.aggregate({
       _avg: {
         rating: true,
@@ -105,7 +110,11 @@ router.get("/:id", async (req, res) => {
     },
   });
   location.intendedPeople = await getPeopleCount(location.id);
-  location.highIntendedPeople = await getPeopleCount(location.id, 50);
+  location.highIntendedPeople = await getPeopleCount(
+    location.id,
+    50,
+    location.intendedPeople
+  );
   let review: any = await prisma.review.aggregate({
     _avg: {
       rating: true,
@@ -183,7 +192,7 @@ router.get("/:id/graph", async (req, res) => {
     y2.push(_y2);
   }
   let t1 = await getPeopleCount(locationId);
-  let t2 = await getPeopleCount(locationId, 50);
+  let t2 = await getPeopleCount(locationId, 50, t1);
   let rng = seedrandom(locationId.toString() + filter);
   for (let i = 0; i < y1.length; i++) {
     let temp1 = Math.floor(rng() * t1);
