@@ -217,7 +217,14 @@ router.get("/:id/reviews", async (req, res) => {
     take: limit,
     skip: offset,
     include: {
-      user: true,
+      user: {
+        select: {
+          email: true,
+          name: true,
+          id: true,
+          reputationPoint: true,
+        },
+      },
     },
   });
   const total_reviews = await prisma.review.count({
