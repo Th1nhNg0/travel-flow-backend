@@ -35,7 +35,7 @@ router.get("/me", authenticateToken, async (req: any, res) => {
 
 router.post("/signup", (req, res) => {
   const { email, password, name } = req.body;
-  console.log(req.body);
+
   prisma.user
     .create({
       data: {

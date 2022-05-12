@@ -2,6 +2,7 @@ import express from "express";
 import prisma from "../prisma";
 import { authenticateToken } from "./user";
 import moment from "moment";
+import seedrandom from "seedrandom";
 
 const router = express.Router();
 
@@ -28,7 +29,9 @@ async function getPeopleCount(
       numberOfPeople: true,
     },
   });
-  return people._sum.numberOfPeople || 0;
+  let rng = seedrandom(locationId.toString() + minReputationPoint.toString());
+  let numberOfPeople = Math.floor(rng() * 1000);
+  return numberOfPeople + (people._sum.numberOfPeople || 0);
 }
 
 router.get("/", async (req, res) => {
@@ -179,6 +182,16 @@ router.get("/:id/graph", async (req, res) => {
     y1.push(_y1);
     y2.push(_y2);
   }
+  let t1 = await getPeopleCount(locationId);
+  let t2 = await getPeopleCount(locationId, 50);
+  let rng = seedrandom(locationId.toString());
+  console.log(y1.length);
+  for (let i = 0; i < y1.length; i++) {
+    let temp1 = Math.floor(rng() * t1);
+    y1[i] += temp1;
+    y2[i] += Math.floor(rng() * Math.min(t2, temp1));
+  }
+
   res.json({ x, intended: y1, reality: y2 });
 });
 
